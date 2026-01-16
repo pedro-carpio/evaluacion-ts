@@ -1,0 +1,397 @@
+- pregunta: "¿Cómo se define la lectura como proceso cognitivo y por qué no se limita a una percepción sensorial?"
+  probabilidad: 0.95
+  respuesta_correcta: "Porque implica comprensión, análisis, relación con conocimientos previos y reflexión, no solo decodificación visual."
+  respuestas_incorrectas:
+    - "Porque combina percepción visual con memorización literal del contenido."
+    - "Porque depende principalmente de la velocidad y fluidez lectora."
+    - "Porque se centra en reconocer signos lingüísticos de forma eficiente."
+
+- pregunta: "¿Por qué la lectura es un elemento esencial en el aprendizaje universitario?"
+  probabilidad: 0.90
+  respuesta_correcta: "Porque el conocimiento académico se transmite principalmente mediante textos escritos."
+  respuestas_incorrectas:
+    - "Porque facilita aprobar exámenes sin necesidad de análisis profundo."
+    - "Porque sustituye la explicación oral del docente."
+    - "Porque permite acceder a resúmenes ya elaborados del conocimiento."
+
+- pregunta: "¿Qué relación existe entre la lectura y los conocimientos previos del lector?"
+  probabilidad: 0.92
+  respuesta_correcta: "El lector comprende mejor al relacionar lo leído con saberes previos."
+  respuestas_incorrectas:
+    - "Los conocimientos previos garantizan una comprensión objetiva del texto."
+    - "La lectura eficaz exige dejar de lado los conocimientos previos."
+    - "Los conocimientos previos solo influyen en textos narrativos."
+
+- pregunta: "¿Qué se entiende por niveles de comprensión lectora?"
+  probabilidad: 0.88
+  respuesta_correcta: "Distintos grados de entendimiento que van de lo literal a lo crítico y reflexivo."
+  respuestas_incorrectas:
+    - "Etapas que dependen del nivel educativo del lector."
+    - "Grados de dificultad definidos por la extensión del texto."
+    - "Clasificaciones basadas en el tipo de vocabulario utilizado."
+
+- pregunta: "¿Qué elementos del texto analiza un lector crítico además del contenido?"
+  probabilidad: 0.85
+  respuesta_correcta: "La forma, las fuentes, los objetivos y los juicios del autor."
+  respuestas_incorrectas:
+    - "La corrección gramatical como criterio principal de calidad."
+    - "La intención del lector al enfrentarse al texto."
+    - "La popularidad y difusión del texto."
+
+- pregunta: "¿Cómo contribuye la lectura a la ampliación de la visión de la realidad?"
+  probabilidad: 0.80
+  respuesta_correcta: "Permite acceder a conocimientos sistematizados por otros y a realidades no vividas directamente."
+  respuestas_incorrectas:
+    - "Sustituye la experiencia personal como fuente principal de conocimiento."
+    - "Ofrece interpretaciones universales válidas para cualquier contexto."
+    - "Presenta una visión neutral y objetiva de la realidad."
+
+- pregunta: "¿Qué significa que leer sea un proceso activo?"
+  probabilidad: 0.87
+  respuesta_correcta: "Que el lector interactúa con el texto formulando relaciones, inferencias y juicios."
+  respuestas_incorrectas:
+    - "Que requiere esfuerzo físico constante del lector."
+    - "Que exige leer el texto varias veces sin interrupciones."
+    - "Que el significado está completamente contenido en el texto."
+
+- pregunta: "¿Cuál es la diferencia entre comprender un texto y solo decodificarlo?"
+  probabilidad: 0.83
+  respuesta_correcta: "Comprender implica interpretar y reflexionar, mientras que decodificar solo reconoce palabras."
+  respuestas_incorrectas:
+    - "Comprender es leer lentamente y decodificar es leer rápido."
+    - "Decodificar incluye análisis crítico y comprensión profunda."
+    - "No existe diferencia sustancial entre ambos procesos."
+
+- pregunta: "¿Cómo se define la escritura como proceso de comunicación?"
+  probabilidad: 0.94
+  respuesta_correcta: "Como la producción de mensajes escritos con un propósito comunicativo."
+  respuestas_incorrectas:
+    - "Como la transcripción fiel de ideas previamente formuladas."
+    - "Como la aplicación correcta de normas gramaticales."
+    - "Como una actividad individual sin destinatario definido."
+
+- pregunta: "¿Por qué escribir implica procesamiento de la información?"
+  probabilidad: 0.91
+  respuesta_correcta: "Porque se selecciona, organiza y reformula lo comprendido con palabras propias."
+  respuestas_incorrectas:
+    - "Porque se reduce la información a sus ideas más simples."
+    - "Porque se reproduce el contenido original de manera estructurada."
+    - "Porque se prioriza la forma sobre el contenido."
+
+- pregunta: "¿De qué manera la escritura ayuda a ordenar y clarificar las ideas?"
+  probabilidad: 0.89
+  respuesta_correcta: "Al exigir una estructura lógica y coherente del pensamiento."
+  respuestas_incorrectas:
+    - "Al permitir escribir sin un orden previo definido."
+    - "Al facilitar la copia de ideas ajenas."
+    - "Al eliminar la necesidad de reflexión previa."
+
+- pregunta: "¿Por qué se afirma que escribir bien es una competencia progresiva?"
+  probabilidad: 0.86
+  respuesta_correcta: "Porque se desarrolla gradualmente mediante práctica y retroalimentación."
+  respuestas_incorrectas:
+    - "Porque depende exclusivamente del talento innato."
+    - "Porque se adquiere completamente en los primeros años universitarios."
+    - "Porque solo mejora con el dominio de la ortografía."
+
+- pregunta: "¿Qué relación existe entre escritura académica y producción de conocimiento?"
+  probabilidad: 0.90
+  respuesta_correcta: "La escritura académica permite construir, comunicar y validar conocimiento disciplinar."
+  respuestas_incorrectas:
+    - "La escritura académica se limita a reproducir conocimiento existente."
+    - "La producción de conocimiento ocurre antes de la escritura."
+    - "La escritura académica solo cumple una función evaluativa."
+
+- pregunta: "¿Qué importancia tiene el uso de fuentes en la escritura académica?"
+  probabilidad: 0.88
+  respuesta_correcta: "Sustenta los argumentos y permite el diálogo con otros autores."
+  respuestas_incorrectas:
+    - "Aumenta la extensión del texto y su complejidad."
+    - "Garantiza la objetividad total del escrito."
+    - "Evita la necesidad de argumentar ideas propias."
+
+- pregunta: "¿Por qué la gramática y la ortografía son fundamentales en la escritura académica?"
+  probabilidad: 0.85
+  respuesta_correcta: "Porque aseguran claridad, precisión y comprensión del mensaje."
+  respuestas_incorrectas:
+    - "Porque definen el valor científico del contenido."
+    - "Porque reemplazan la necesidad de una buena argumentación."
+    - "Porque determinan el nivel intelectual del autor."
+
+- pregunta: "¿Cómo contribuye la escritura al aprendizaje de una disciplina como Trabajo Social?"
+  probabilidad: 0.87
+  respuesta_correcta: "Facilita la apropiación del lenguaje disciplinar y la reflexión crítica."
+  respuestas_incorrectas:
+    - "Permite memorizar conceptos sin analizarlos."
+    - "Sustituye la práctica profesional."
+    - "Reduce la complejidad teórica de la disciplina."
+
+- pregunta: "¿Cuáles son las tres fases de la escritura universitaria?"
+  probabilidad: 0.97
+  respuesta_correcta: "Pre-escritura, producción escrita y revisión."
+  respuestas_incorrectas:
+    - "Lectura, redacción y evaluación."
+    - "Planificación, copia y corrección."
+    - "Introducción, desarrollo y bibliografía."
+
+- pregunta: "¿Qué objetivos cumple la fase de pre-escritura?"
+  probabilidad: 0.95
+  respuesta_correcta: "Definir propósito, tema, fuentes y estructura del texto."
+  respuestas_incorrectas:
+    - "Redactar un borrador completo del texto."
+    - "Corregir errores lingüísticos."
+    - "Evaluar el texto final."
+
+- pregunta: "¿Por qué es importante definir el destinatario antes de escribir?"
+  probabilidad: 0.88
+  respuesta_correcta: "Porque condiciona el lenguaje, el enfoque y el nivel de profundidad."
+  respuestas_incorrectas:
+    - "Porque determina la extensión exacta del texto."
+    - "Porque limita el uso de fuentes académicas."
+    - "Porque garantiza la objetividad del contenido."
+
+- pregunta: "¿Qué papel cumple la selección de bibliografía en la pre-escritura?"
+  probabilidad: 0.90
+  respuesta_correcta: "Proporciona el sustento teórico y empírico del texto."
+  respuestas_incorrectas:
+    - "Define el estilo personal del autor."
+    - "Reduce el tiempo de escritura."
+    - "Evita la necesidad de una estructura previa."
+
+- pregunta: "¿Qué se espera lograr durante la fase de producción escrita?"
+  probabilidad: 0.85
+  respuesta_correcta: "Expresar las ideas de forma clara, coherente y fundamentada."
+  respuestas_incorrectas:
+    - "Incorporar la mayor cantidad posible de citas."
+    - "Cerrar definitivamente el proceso de escritura."
+    - "Corregir exhaustivamente la ortografía."
+
+- pregunta: "¿Por qué la revisión es una fase indispensable del proceso de escritura?"
+  probabilidad: 0.93
+  respuesta_correcta: "Porque permite evaluar coherencia, claridad y adecuación al objetivo."
+  respuestas_incorrectas:
+    - "Porque reemplaza la planificación inicial."
+    - "Porque solo mejora la presentación formal."
+    - "Porque asegura la originalidad del contenido."
+
+- pregunta: "¿Qué criterios deben considerarse al revisar un texto académico?"
+  probabilidad: 0.91
+  respuesta_correcta: "Claridad, coherencia, orden, corrección lingüística y correspondencia con el objetivo."
+  respuestas_incorrectas:
+    - "Cantidad de páginas y número de citas."
+    - "Estilo personal del docente."
+    - "Nivel de dificultad percibido por el lector."
+
+- pregunta: "¿Cuál es el rol del docente universitario en el desarrollo de la escritura académica?"
+  probabilidad: 0.96
+  respuesta_correcta: "Acompañar y guiar procesos de lectura, escritura y pensamiento crítico."
+  respuestas_incorrectas:
+    - "Transmitir modelos cerrados de escritura."
+    - "Corregir únicamente errores formales."
+    - "Delegar la enseñanza de la escritura a otras asignaturas."
+- pregunta: "¿Por qué el docente debe proponer tareas complejas de lectura y escritura?"
+  probabilidad: 0.89
+  respuesta_correcta: "Porque favorecen el aprendizaje profundo y el desarrollo del pensamiento crítico."
+  respuestas_incorrectas:
+    - "Porque incrementan la carga académica como forma de disciplina."
+    - "Porque reemplazan la evaluación teórica tradicional."
+    - "Porque obligan al estudiante a reproducir modelos académicos."
+
+- pregunta: "¿Cómo contribuye el docente a la adquisición del lenguaje profesional y disciplinar?"
+  probabilidad: 0.90
+  respuesta_correcta: "Diseñando actividades que exigen el uso reflexivo del lenguaje propio de la disciplina."
+  respuestas_incorrectas:
+    - "Corrigiendo exclusivamente el uso de tecnicismos."
+    - "Imponiendo un vocabulario estandarizado sin contextualización."
+    - "Limitando el uso del lenguaje cotidiano."
+
+- pregunta: "¿Qué relación existe entre pensamiento crítico y escritura académica?"
+  probabilidad: 0.87
+  respuesta_correcta: "La escritura académica estructura y hace visible el pensamiento crítico."
+  respuestas_incorrectas:
+    - "El pensamiento crítico se desarrolla antes y al margen de la escritura."
+    - "La escritura académica reduce la capacidad crítica."
+    - "Ambos procesos son independientes."
+
+- pregunta: "¿Qué son las estrategias de prelectura?"
+  probabilidad: 0.94
+  respuesta_correcta: "Acciones previas a la lectura que activan conocimientos y orientan la comprensión."
+  respuestas_incorrectas:
+    - "Técnicas para memorizar el texto antes de leerlo."
+    - "Métodos para seleccionar solo fragmentos del texto."
+    - "Estrategias de lectura rápida."
+
+- pregunta: "¿Cuál es la función principal de activar conocimientos previos?"
+  probabilidad: 0.92
+  respuesta_correcta: "Facilitar la comprensión integrando información nueva con saberes existentes."
+  respuestas_incorrectas:
+    - "Evitar interpretaciones erróneas del texto."
+    - "Reducir la necesidad de leer el texto completo."
+    - "Confirmar automáticamente las ideas iniciales."
+
+- pregunta: "¿Qué aporta la formulación de preguntas antes de leer?"
+  probabilidad: 0.85
+  respuesta_correcta: "Orienta la atención y establece propósitos de lectura."
+  respuestas_incorrectas:
+    - "Define las conclusiones finales del texto."
+    - "Permite anticipar la opinión del autor."
+    - "Sustituye la necesidad de analizar el contenido."
+
+- pregunta: "¿Qué caracteriza a las estrategias aplicadas durante la lectura?"
+  probabilidad: 0.93
+  respuesta_correcta: "Promueven interacción constante con el texto mediante análisis e inferencias."
+  respuestas_incorrectas:
+    - "Buscan mantener una lectura continua sin interrupciones."
+    - "Se centran en la identificación de palabras clave aisladas."
+    - "Priorizar la velocidad sobre la comprensión."
+
+- pregunta: "¿Por qué subrayar y tomar notas favorece la comprensión?"
+  probabilidad: 0.88
+  respuesta_correcta: "Porque ayuda a identificar ideas relevantes y establecer relaciones."
+  respuestas_incorrectas:
+    - "Porque reduce la cantidad de texto a leer."
+    - "Porque facilita la memorización literal."
+    - "Porque reemplaza la reflexión personal."
+
+- pregunta: "¿Qué significa inferir durante la lectura?"
+  probabilidad: 0.86
+  respuesta_correcta: "Deducir información implícita a partir de lo leído."
+  respuestas_incorrectas:
+    - "Interpretar libremente sin apoyo textual."
+    - "Repetir con otras palabras lo explícito."
+    - "Completar el texto con opiniones personales."
+
+- pregunta: "¿Qué implica conectar lo leído con otros textos o experiencias?"
+  probabilidad: 0.80
+  respuesta_correcta: "Construir una comprensión más amplia e integrada del contenido."
+  respuestas_incorrectas:
+    - "Comparar estilos de escritura sin analizar ideas."
+    - "Validar únicamente la experiencia personal."
+    - "Desviar la atención del texto principal."
+
+- pregunta: "¿Cuál es el objetivo de las estrategias de postlectura?"
+  probabilidad: 0.94
+  respuesta_correcta: "Consolidar, evaluar y profundizar la comprensión lograda."
+  respuestas_incorrectas:
+    - "Repetir el texto para memorizarlo."
+    - "Corregir errores gramaticales del autor."
+    - "Ampliar el texto con información externa."
+
+- pregunta: "¿Por qué resumir ayuda a consolidar el aprendizaje?"
+  probabilidad: 0.91
+  respuesta_correcta: "Porque exige seleccionar y reorganizar las ideas principales."
+  respuestas_incorrectas:
+    - "Porque reduce el texto a datos aislados."
+    - "Porque elimina la necesidad de comprensión profunda."
+    - "Porque facilita la copia posterior."
+
+- pregunta: "¿Qué diferencia existe entre resumir y parafrasear?"
+  probabilidad: 0.89
+  respuesta_correcta: "Resumir sintetiza ideas; parafrasear reformula el contenido con otras palabras."
+  respuestas_incorrectas:
+    - "Resumir implica copiar; parafrasear interpretar."
+    - "Ambos procesos son equivalentes."
+    - "Parafrasear reduce más el contenido que resumir."
+
+- pregunta: "¿Por qué el debate fortalece la comprensión lectora?"
+  probabilidad: 0.84
+  respuesta_correcta: "Porque confronta interpretaciones y profundiza el análisis."
+  respuestas_incorrectas:
+    - "Porque permite imponer una interpretación dominante."
+    - "Porque reemplaza la lectura individual."
+    - "Porque valida automáticamente la opinión mayoritaria."
+
+- pregunta: "¿Cómo se evalúa la comprensión lectora después de la lectura?"
+  probabilidad: 0.88
+  respuesta_correcta: "Mediante reflexión, síntesis y contraste de ideas."
+  respuestas_incorrectas:
+    - "Por la cantidad de páginas leídas."
+    - "Por la velocidad de lectura alcanzada."
+    - "Por la repetición fiel del contenido."
+
+- pregunta: "¿Qué implica evaluar la coherencia interna de un texto?"
+  probabilidad: 0.90
+  respuesta_correcta: "Analizar la relación lógica entre las ideas."
+  respuestas_incorrectas:
+    - "Revisar exclusivamente la ortografía."
+    - "Compararlo con otros textos similares."
+    - "Identificar el nivel de dificultad del lenguaje."
+
+- pregunta: "¿Qué caracteriza a un texto narrativo?"
+  probabilidad: 0.82
+  respuesta_correcta: "Relata hechos mediante la presencia de un narrador."
+  respuestas_incorrectas:
+    - "Desarrolla una tesis con argumentos."
+    - "Explica fenómenos de manera objetiva."
+    - "Describe rasgos sin secuencia temporal."
+
+- pregunta: "¿Qué define principalmente a un texto descriptivo?"
+  probabilidad: 0.86
+  respuesta_correcta: "La caracterización detallada de un referente."
+  respuestas_incorrectas:
+    - "La exposición de causas y consecuencias."
+    - "La defensa de un punto de vista."
+    - "La narración de acciones."
+
+- pregunta: "¿Cuál es la finalidad central del texto argumentativo?"
+  probabilidad: 0.94
+  respuesta_correcta: "Persuadir mediante razones y argumentos."
+  respuestas_incorrectas:
+    - "Informar objetivamente sin tomar postura."
+    - "Relatar experiencias personales."
+    - "Describir características técnicas."
+
+- pregunta: "¿Qué diferencia a un texto argumentativo de uno explicativo?"
+  probabilidad: 0.90
+  respuesta_correcta: "El argumentativo busca convencer; el explicativo busca hacer comprender."
+  respuestas_incorrectas:
+    - "El argumentativo es más largo que el explicativo."
+    - "El explicativo siempre incluye opiniones personales."
+    - "Ambos persiguen el mismo objetivo comunicativo."
+
+- pregunta: "¿Qué caracteriza al texto explicativo?"
+  probabilidad: 0.85
+  respuesta_correcta: "Uso de lenguaje preciso para aclarar conceptos o fenómenos."
+  respuestas_incorrectas:
+    - "Presencia de una tesis polémica."
+    - "Uso predominante de recursos literarios."
+    - "Narración de hechos ficticios."
+
+- pregunta: "¿Qué rasgo distingue al texto académico?"
+  probabilidad: 0.95
+  respuesta_correcta: "Lenguaje formal, estructura definida y respaldo en fuentes."
+  respuestas_incorrectas:
+    - "Estilo personal y subjetivo."
+    - "Ausencia de referencias para favorecer originalidad."
+    - "Flexibilidad total en la estructura."
+
+- pregunta: "¿Por qué son indispensables las referencias bibliográficas?"
+  probabilidad: 0.93
+  respuesta_correcta: "Porque permiten sustentar, verificar y dialogar con otros conocimientos."
+  respuestas_incorrectas:
+    - "Porque aumentan la extensión del texto."
+    - "Porque reemplazan el análisis propio."
+    - "Porque garantizan neutralidad absoluta."
+
+- pregunta: "¿Cómo se articulan lectura y escritura en la formación en Trabajo Social?"
+  probabilidad: 0.98
+  respuesta_correcta: "Como competencias complementarias para el análisis crítico y la producción de conocimiento."
+  respuestas_incorrectas:
+    - "Como habilidades técnicas sin relación entre sí."
+    - "Como actividades secundarias frente a la práctica."
+    - "Como procesos mecánicos orientados a la evaluación."
+- pregunta: "¿Por qué es importante identificar dificultades conceptuales en un texto académico?"
+  probabilidad: 0.85
+  respuesta_correcta: "Porque permite reconocer límites de comprensión, evaluar la solidez del argumento y orientar una lectura crítica."
+  respuestas_incorrectas:
+    - "Porque evidencia únicamente la complejidad del vocabulario utilizado."
+    - "Porque permite clasificar el texto según su nivel de dificultad."
+    - "Porque justifica la falta de comprensión del lector."
+
+- pregunta: "¿Qué implica dirigir la atención a lo fundamental durante el análisis de un texto?"
+  probabilidad: 0.92
+  respuesta_correcta: "Identificar la información esencial necesaria para cumplir el objetivo de lectura."
+  respuestas_incorrectas:
+    - "Reducir el texto a frases aisladas sin contexto."
+    - "Ignorar argumentos secundarios aunque apoyen la idea central."
+    - "Priorizar la extensión del texto sobre su contenido."

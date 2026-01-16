@@ -1,0 +1,397 @@
+- pregunta: "¿Por qué el aprendizaje humano no puede reducirse únicamente a procesos cognitivos?"
+  probabilidad: 0.92
+  respuesta_correcta: "Porque el aprendizaje involucra de manera integrada procesos cognitivos, corporales y socio-afectivos."
+  respuestas_incorrectas:
+    - "Porque la cognición depende exclusivamente del contexto social y no del individuo."
+    - "Porque los procesos cognitivos solo operan en etapas avanzadas del aprendizaje."
+    - "Porque el aprendizaje verdadero ocurre únicamente a nivel emocional."
+
+- pregunta: "¿Cómo interactúan las dimensiones cognitiva, motora y socio-afectiva en un aprendizaje significativo?"
+  probabilidad: 0.95
+  respuesta_correcta: "Se integran de forma simultánea, reforzándose mutuamente durante la experiencia de aprendizaje."
+  respuestas_incorrectas:
+    - "Funcionan de manera secuencial, activándose una después de la otra."
+    - "La dimensión cognitiva domina y las demás cumplen un rol secundario."
+    - "Solo se integran en aprendizajes de tipo práctico."
+
+- pregunta: "¿Qué papel cumplen las emociones en la consolidación de la memoria a largo plazo?"
+  probabilidad: 0.93
+  respuesta_correcta: "Actúan como un filtro que facilita o bloquea el almacenamiento significativo de la información."
+  respuestas_incorrectas:
+    - "Determinan únicamente la velocidad del aprendizaje, no su permanencia."
+    - "Influyen solo en la memoria a corto plazo."
+    - "Son irrelevantes si el contenido es cognitivamente complejo."
+
+- pregunta: "¿Por qué la ausencia de emoción positiva puede bloquear el aprendizaje profundo?"
+  probabilidad: 0.88
+  respuesta_correcta: "Porque el cerebro reduce la atención y la consolidación cuando no percibe relevancia emocional."
+  respuestas_incorrectas:
+    - "Porque el cerebro entra en un estado de descanso cognitivo permanente."
+    - "Porque la emoción negativa elimina toda posibilidad de aprendizaje."
+    - "Porque la emoción solo afecta a estudiantes con baja motivación."
+
+- pregunta: "¿En qué sentido el cuerpo actúa como vehículo del aprendizaje?"
+  probabilidad: 0.86
+  respuesta_correcta: "Porque el movimiento y la acción facilitan la interacción con el entorno y la plasticidad cerebral."
+  respuestas_incorrectas:
+    - "Porque el cuerpo reemplaza los procesos mentales durante el aprendizaje."
+    - "Porque el aprendizaje corporal es independiente del aprendizaje cognitivo."
+    - "Porque el cuerpo solo interviene en aprendizajes motores."
+
+- pregunta: "¿Por qué la experiencia es indispensable para formar conexiones neuronales estables?"
+  probabilidad: 0.94
+  respuesta_correcta: "Porque la acción y la práctica refuerzan y estabilizan las sinapsis neuronales."
+  respuestas_incorrectas:
+    - "Porque la teoría impide la creación de conexiones neuronales."
+    - "Porque la experiencia sustituye la necesidad de reflexión."
+    - "Porque solo la experiencia emocional genera aprendizaje."
+
+- pregunta: "¿Qué diferencia existe entre conocimiento teórico y competencia?"
+  probabilidad: 0.90
+  respuesta_correcta: "La competencia implica la aplicación efectiva del conocimiento en contextos reales."
+  respuestas_incorrectas:
+    - "La competencia es una versión simplificada del conocimiento teórico."
+    - "El conocimiento teórico es innecesario para desarrollar competencias."
+    - "Ambos conceptos son equivalentes en pedagogía."
+
+- pregunta: "¿Cómo influye la práctica activa en la plasticidad cerebral?"
+  probabilidad: 0.89
+  respuesta_correcta: "Estimula la reorganización neuronal mediante la repetición significativa."
+  respuestas_incorrectas:
+    - "Reduce la necesidad de consolidación del aprendizaje."
+    - "Limita la plasticidad a tareas mecánicas."
+    - "Solo influye en aprendizajes motores."
+
+- pregunta: "¿Qué relación existe entre nutrición y rendimiento cognitivo?"
+  probabilidad: 0.85
+  respuesta_correcta: "Una nutrición adecuada provee la energía necesaria para los procesos sinápticos."
+  respuestas_incorrectas:
+    - "La nutrición solo afecta al estado físico, no al aprendizaje."
+    - "El cerebro funciona de manera autónoma respecto a la alimentación."
+    - "La nutrición influye únicamente en la memoria emocional."
+
+- pregunta: "¿Por qué la alimentación y la hidratación son factores pedagógicos?"
+  probabilidad: 0.83
+  respuesta_correcta: "Porque condicionan la atención, la memoria y el rendimiento cognitivo."
+  respuestas_incorrectas:
+    - "Porque determinan el estilo de aprendizaje del estudiante."
+    - "Porque reemplazan estrategias didácticas deficientes."
+    - "Porque solo afectan a estudiantes con dificultades académicas."
+
+- pregunta: "¿Qué es el aprendizaje multisensorial?"
+  probabilidad: 0.91
+  respuesta_correcta: "Un aprendizaje que integra múltiples canales sensoriales para procesar información."
+  respuestas_incorrectas:
+    - "Un método exclusivo para estudiantes visuales."
+    - "Una técnica centrada únicamente en el uso de imágenes."
+    - "Un enfoque alternativo al aprendizaje cognitivo."
+
+- pregunta: "¿Por qué el aprendizaje multisensorial es más efectivo?"
+  probabilidad: 0.90
+  respuesta_correcta: "Porque activa múltiples rutas neuronales y mejora la retención."
+  respuestas_incorrectas:
+    - "Porque reduce la necesidad de atención."
+    - "Porque simplifica los contenidos complejos."
+    - "Porque elimina las diferencias individuales."
+
+- pregunta: "¿En qué consiste la codificación dual?"
+  probabilidad: 0.90
+  respuesta_correcta: "En procesar la información de manera verbal y visual simultáneamente."
+  respuestas_incorrectas:
+    - "En alternar entre imágenes y texto según el contenido."
+    - "En priorizar el canal visual sobre el verbal."
+    - "En repetir la información dos veces."
+
+- pregunta: "¿Cómo contribuye el color al aprendizaje?"
+  probabilidad: 0.82
+  respuesta_correcta: "Ayuda a jerarquizar información y mantener la atención."
+  respuestas_incorrectas:
+    - "Aumenta la memorización sin necesidad de comprensión."
+    - "Sustituye el uso de palabras clave."
+    - "Funciona solo como elemento estético."
+
+- pregunta: "¿Por qué las palabras clave reducen la carga cognitiva?"
+  probabilidad: 0.84
+  respuesta_correcta: "Porque sintetizan la información relevante y facilitan su organización mental."
+  respuestas_incorrectas:
+    - "Porque eliminan la necesidad de análisis profundo."
+    - "Porque reemplazan el contenido conceptual."
+    - "Porque aceleran la lectura sin afectar la memoria."
+
+- pregunta: "¿Qué significa que la atención sea la condición de entrada del aprendizaje?"
+  probabilidad: 0.96
+  respuesta_correcta: "Que sin atención no hay procesamiento significativo de la información."
+  respuestas_incorrectas:
+    - "Que la atención garantiza automáticamente el aprendizaje."
+    - "Que la atención depende solo de la motivación del estudiante."
+    - "Que la atención reemplaza la práctica."
+
+- pregunta: "¿Por qué la atención es limitada y fluctuante?"
+  probabilidad: 0.93
+  respuesta_correcta: "Porque el cerebro selecciona estímulos y se fatiga ante la pasividad."
+  respuestas_incorrectas:
+    - "Porque depende exclusivamente de la edad."
+    - "Porque disminuye solo en contenidos complejos."
+    - "Porque es un rasgo fijo del estudiante."
+
+- pregunta: "¿Qué activa la atención sostenida en el aprendizaje?"
+  probabilidad: 0.89
+  respuesta_correcta: "La novedad, la emoción y la relevancia personal."
+  respuestas_incorrectas:
+    - "La repetición constante del contenido."
+    - "La cantidad de información presentada."
+    - "La evaluación inmediata."
+
+- pregunta: "¿Por qué la enseñanza pasiva debilita la atención?"
+  probabilidad: 0.87
+  respuesta_correcta: "Porque reduce la participación cognitiva del estudiante."
+  respuestas_incorrectas:
+    - "Porque elimina la autoridad del docente."
+    - "Porque incrementa la carga cognitiva."
+    - "Porque genera exceso de estímulos."
+
+- pregunta: "¿Qué caracteriza al compromiso activo?"
+  probabilidad: 0.95
+  respuesta_correcta: "La participación consciente en procesos de pensamiento y acción."
+  respuestas_incorrectas:
+    - "La memorización intensiva de contenidos."
+    - "La repetición mecánica de ejercicios."
+    - "La atención pasiva prolongada."
+
+- pregunta: "¿Por qué aprender no equivale a recibir información?"
+  probabilidad: 0.92
+  respuesta_correcta: "Porque el aprendizaje implica construir y transformar el conocimiento."
+  respuestas_incorrectas:
+    - "Porque la información es siempre insuficiente."
+    - "Porque solo el error genera aprendizaje."
+    - "Porque el aprendizaje es un proceso automático."
+
+- pregunta: "¿Cómo cambia el rol del docente en el aprendizaje activo?"
+  probabilidad: 0.90
+  respuesta_correcta: "Pasa de transmisor de contenidos a facilitador del aprendizaje."
+  respuestas_incorrectas:
+    - "Se convierte en observador pasivo."
+    - "Pierde responsabilidad en el proceso educativo."
+    - "Se enfoca exclusivamente en la evaluación."
+
+- pregunta: "¿Qué actividades fortalecen el compromiso activo?"
+  probabilidad: 0.88
+  respuesta_correcta: "Resolución de problemas, debates y proyectos."
+  respuestas_incorrectas:
+    - "Exposiciones magistrales prolongadas."
+    - "Lectura repetitiva de textos."
+    - "Evaluaciones sumativas frecuentes."
+
+- pregunta: "¿Qué es la consolidación del aprendizaje?"
+  probabilidad: 0.94
+  respuesta_correcta: "El proceso de estabilización del aprendizaje en la memoria a largo plazo."
+  respuestas_incorrectas:
+    - "La repetición inmediata del contenido."
+    - "La evaluación final del aprendizaje."
+    - "El almacenamiento temporal de información."
+
+- pregunta: "¿Por qué la consolidación es un proceso temporal?"
+  probabilidad: 0.91
+  respuesta_correcta: "Porque el cerebro necesita tiempo para reorganizar y fortalecer conexiones neuronales."
+  respuestas_incorrectas:
+    - "Porque depende del ritmo del docente."
+    - "Porque ocurre solo durante la evaluación."
+    - "Porque se limita al momento de estudio."
+- pregunta: "¿Cómo influyen la repetición significativa y la práctica distribuida en la consolidación del aprendizaje?"
+  probabilidad: 0.90
+  respuesta_correcta: "Permiten reforzar las conexiones neuronales evitando la sobrecarga cognitiva."
+  respuestas_incorrectas:
+    - "Aceleran la memorización inmediata sin afectar la retención."
+    - "Sustituyen la necesidad de descanso y sueño."
+    - "Funcionan únicamente en aprendizajes mecánicos."
+
+- pregunta: "¿Qué riesgos pedagógicos existen cuando no se favorece la consolidación del aprendizaje?"
+  probabilidad: 0.85
+  respuesta_correcta: "Que la información se pierda o permanezca solo en la memoria de corto plazo."
+  respuestas_incorrectas:
+    - "Que el aprendizaje se vuelva exclusivamente emocional."
+    - "Que el estudiante dependa solo del compromiso activo."
+    - "Que aumente la motivación sin mejorar el rendimiento."
+
+- pregunta: "¿Qué se entiende por error productivo en el aprendizaje?"
+  probabilidad: 0.96
+  respuesta_correcta: "Un error que genera ajuste cognitivo mediante la reflexión y la retroalimentación."
+  respuestas_incorrectas:
+    - "Un error cometido repetidamente hasta memorizar la respuesta correcta."
+    - "Un error que ocurre solo en estudiantes con bajo rendimiento."
+    - "Un error tolerado únicamente en etapas iniciales del aprendizaje."
+
+- pregunta: "¿Por qué el error no debe considerarse un fracaso desde la neuroeducación?"
+  probabilidad: 0.94
+  respuesta_correcta: "Porque activa mecanismos de corrección y reorganización del conocimiento."
+  respuestas_incorrectas:
+    - "Porque el fracaso solo existe en evaluaciones formales."
+    - "Porque el error carece de impacto emocional."
+    - "Porque el aprendizaje ocurre independientemente del resultado."
+
+- pregunta: "¿Cómo genera el error un desequilibrio cognitivo que impulsa el aprendizaje?"
+  probabilidad: 0.92
+  respuesta_correcta: "Al confrontar las expectativas previas con resultados inesperados."
+  respuestas_incorrectas:
+    - "Al aumentar la dificultad del contenido automáticamente."
+    - "Al disminuir la motivación intrínseca."
+    - "Al reforzar respuestas incorrectas de manera temporal."
+
+- pregunta: "¿Qué rol cumple la retroalimentación en el error productivo?"
+  probabilidad: 0.93
+  respuesta_correcta: "Orientar la corrección y favorecer la reconstrucción del conocimiento."
+  respuestas_incorrectas:
+    - "Corregir únicamente el resultado final."
+    - "Reducir la cantidad de errores futuros sin reflexión."
+    - "Sustituir la práctica autónoma del estudiante."
+
+- pregunta: "¿Qué consecuencias tiene penalizar el error en el aula?"
+  probabilidad: 0.91
+  respuesta_correcta: "Inhibe la participación y limita el aprendizaje profundo."
+  respuestas_incorrectas:
+    - "Incrementa la atención sostenida."
+    - "Favorece la memorización a largo plazo."
+    - "Optimiza el control del proceso educativo."
+
+- pregunta: "¿Por qué no puede existir aprendizaje auténtico sin error?"
+  probabilidad: 0.95
+  respuesta_correcta: "Porque aprender implica contrastar, ajustar y reorganizar el conocimiento."
+  respuestas_incorrectas:
+    - "Porque el error garantiza automáticamente la comprensión."
+    - "Porque todo aprendizaje parte de la confusión."
+    - "Porque el error reemplaza la práctica deliberada."
+
+- pregunta: "¿Qué fundamentos sostiene el modelo VARK?"
+  probabilidad: 0.88
+  respuesta_correcta: "Que las personas tienen preferencias sensoriales para procesar información."
+  respuestas_incorrectas:
+    - "Que cada persona posee un único estilo fijo de aprendizaje."
+    - "Que el canal visual es superior a los demás."
+    - "Que el aprendizaje depende del coeficiente intelectual."
+
+- pregunta: "¿Por qué el modelo VARK no clasifica capacidades?"
+  probabilidad: 0.87
+  respuesta_correcta: "Porque se centra en preferencias de acceso a la información."
+  respuestas_incorrectas:
+    - "Porque ignora las diferencias individuales."
+    - "Porque prioriza únicamente factores emocionales."
+    - "Porque se limita a contextos no formales."
+
+- pregunta: "¿Cómo puede el docente integrar múltiples canales sensoriales?"
+  probabilidad: 0.84
+  respuesta_correcta: "Diseñando experiencias que combinen imágenes, diálogo, escritura y acción."
+  respuestas_incorrectas:
+    - "Seleccionando un canal dominante por clase."
+    - "Repitiendo el mismo contenido en distintos formatos."
+    - "Adaptando la enseñanza a un solo estilo predominante."
+
+- pregunta: "¿En qué consiste el ciclo de aprendizaje experiencial de Kolb?"
+  probabilidad: 0.92
+  respuesta_correcta: "En transformar la experiencia en conocimiento mediante reflexión y acción."
+  respuestas_incorrectas:
+    - "En memorizar experiencias previas."
+    - "En alternar teoría y práctica sin reflexión."
+    - "En repetir actividades hasta dominarlas."
+
+- pregunta: "¿Qué caracteriza al estilo adaptador en el modelo de Kolb?"
+  probabilidad: 0.85
+  respuesta_correcta: "La acción, la toma de riesgos y la adaptación a situaciones cambiantes."
+  respuestas_incorrectas:
+    - "La elaboración teórica rigurosa."
+    - "La preferencia por la observación pasiva."
+    - "La necesidad de instrucciones detalladas."
+
+- pregunta: "¿Por qué el estilo divergente se asocia a perfiles creativos?"
+  probabilidad: 0.83
+  respuesta_correcta: "Porque genera múltiples alternativas y reconoce problemas desde distintas perspectivas."
+  respuestas_incorrectas:
+    - "Porque evita la reflexión teórica."
+    - "Porque se enfoca en soluciones únicas."
+    - "Porque prioriza la aplicación técnica inmediata."
+
+- pregunta: "¿Qué fortalezas presenta el estilo convergente?"
+  probabilidad: 0.84
+  respuesta_correcta: "La resolución de problemas con soluciones claras y aplicables."
+  respuestas_incorrectas:
+    - "La generación constante de alternativas."
+    - "La sensibilidad emocional elevada."
+    - "La preferencia por la abstracción teórica."
+
+- pregunta: "¿Qué distingue al estilo asimilador?"
+  probabilidad: 0.82
+  respuesta_correcta: "La construcción de modelos teóricos coherentes y lógicos."
+  respuestas_incorrectas:
+    - "La búsqueda de resultados inmediatos."
+    - "La experimentación corporal constante."
+    - "La toma de decisiones intuitivas."
+
+- pregunta: "¿Por qué los estilos de Kolb no deben jerarquizarse?"
+  probabilidad: 0.88
+  respuesta_correcta: "Porque cada estilo responde a formas distintas de aprender según el contexto."
+  respuestas_incorrectas:
+    - "Porque todos los estudiantes poseen el mismo estilo."
+    - "Porque los estilos cambian de manera aleatoria."
+    - "Porque carecen de validez pedagógica."
+
+- pregunta: "¿Qué propone la teoría de las inteligencias múltiples?"
+  probabilidad: 0.94
+  respuesta_correcta: "Que la inteligencia se manifiesta en diversas capacidades más allá de lo académico tradicional."
+  respuestas_incorrectas:
+    - "Que todas las inteligencias tienen el mismo peso en la evaluación."
+    - "Que la inteligencia es completamente innata."
+    - "Que solo existen inteligencias cognitivas."
+
+- pregunta: "¿Por qué la inteligencia no es una capacidad única?"
+  probabilidad: 0.93
+  respuesta_correcta: "Porque se expresa en dimensiones cognitivas, emocionales, corporales y sociales."
+  respuestas_incorrectas:
+    - "Porque depende exclusivamente del entorno cultural."
+    - "Porque varía únicamente con la edad."
+    - "Porque no puede ser desarrollada."
+
+- pregunta: "¿Qué implicaciones pedagógicas tiene reconocer múltiples inteligencias?"
+  probabilidad: 0.90
+  respuesta_correcta: "Diversificar estrategias de enseñanza y evaluación."
+  respuestas_incorrectas:
+    - "Eliminar los contenidos teóricos."
+    - "Estandarizar metodologías para todos."
+    - "Reducir la exigencia académica."
+
+- pregunta: "¿Por qué la inteligencia interpersonal es relevante en el aprendizaje?"
+  probabilidad: 0.88
+  respuesta_correcta: "Porque facilita la interacción, el trabajo colaborativo y la comunicación."
+  respuestas_incorrectas:
+    - "Porque sustituye el aprendizaje individual."
+    - "Porque elimina los conflictos cognitivos."
+    - "Porque garantiza el éxito académico."
+
+- pregunta: "¿Cómo se relacionan los cuatro pilares del aprendizaje?"
+  probabilidad: 0.97
+  respuesta_correcta: "Funcionan de manera integrada y dependiente entre sí."
+  respuestas_incorrectas:
+    - "Actúan de forma independiente según el contenido."
+    - "Se activan en etapas separadas del aprendizaje."
+    - "Compiten entre sí por recursos cognitivos."
+
+- pregunta: "¿Qué ocurre cuando uno de los pilares del aprendizaje está ausente?"
+  probabilidad: 0.95
+  respuesta_correcta: "El aprendizaje se debilita o se vuelve superficial."
+  respuestas_incorrectas:
+    - "Los otros pilares compensan completamente la ausencia."
+    - "El aprendizaje se vuelve automático."
+    - "El error productivo desaparece."
+
+- pregunta: "¿Por qué el aprendizaje efectivo es un proceso activo, integral y contextualizado?"
+  probabilidad: 0.98
+  respuesta_correcta: "Porque involucra mente, cuerpo, emoción y entorno de manera articulada."
+  respuestas_incorrectas:
+    - "Porque depende exclusivamente del contenido."
+    - "Porque responde a un único estilo de aprendizaje."
+    - "Porque elimina la necesidad de evaluación."
+- pregunta: "¿Por qué la inteligencia cinestésica-corporal es central en ciertos procesos de aprendizaje?"
+  probabilidad: 0.84
+  respuesta_correcta: "Porque el movimiento y la acción corporal facilitan la comprensión, la memoria y la interacción con el entorno."
+  respuestas_incorrectas:
+    - "Porque reemplaza los procesos cognitivos en el aprendizaje."
+    - "Porque solo es relevante en actividades deportivas."
+    - "Porque depende exclusivamente de la coordinación motora."

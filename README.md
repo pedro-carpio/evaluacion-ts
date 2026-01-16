@@ -1,6 +1,51 @@
-# Evaluacion
+# Sistema de Evaluación - Aplicación Angular
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.2.
+Este proyecto es un sistema de evaluación interactivo desarrollado en Angular 21+ que permite realizar evaluaciones de prueba sobre diferentes materias académicas. La aplicación carga preguntas desde archivos YAML y ofrece una experiencia completa de evaluación con cronómetro, verificación instantánea y cálculo de puntajes.
+
+## Características principales
+
+### Vista de Inicio (Home)
+- Muestra un catálogo de carreras y materias disponibles
+- Carga dinámicamente desde `public/catalogo.yaml`
+- Navegación intuitiva a las evaluaciones
+
+### Vista de Evaluación (Materia)
+- **Cantidad de preguntas configurable**: 10, 15, 25 o 50 preguntas
+- **Cronómetro programable**: Configurable en minutos y segundos
+  - Inicia/detiene con un botón
+  - Cambia a rojo cuando el tiempo se agota (valores negativos)
+- **Verificación instantánea**: Opción de mostrar respuestas correctas en tiempo real
+- **Puntaje dinámico**: Cálculo de 0 a 100 basado en respuestas correctas
+  - Solo cuenta preguntas respondidas mientras el cronómetro > 0
+- **Preguntas aleatorias**: Se mezclan cada vez que se entra o cambia la cantidad
+- **Componente Card**: Cada pregunta se muestra en una tarjeta con opciones mezcladas
+
+## Rutas disponibles
+
+- `/inicio` - Página de inicio con selección de evaluación
+- `/trabajo-social/evaluacion?materia=comprension` - Evaluación de Comprensión Lectora
+- `/trabajo-social/evaluacion?materia=estrategias` - Evaluación de Estrategias de Aprendizaje
+
+## Estructura del proyecto
+
+```
+src/
+├── app/                       # Configuración principal
+├── components/
+│   └── card.component.ts      # Tarjeta de pregunta
+├── views/
+│   ├── home.view.ts           # Vista de inicio
+│   └── materia.view.ts        # Vista de evaluación
+├── services/
+│   └── evaluacion.service.ts  # Servicio de datos
+└── models/
+    └── pregunta.model.ts      # Interfaces TypeScript
+
+public/
+├── catalogo.yaml              # Catálogo de carreras y materias
+└── trabajoSocial/
+    └── preguntas/             # Archivos YAML con preguntas
+```
 
 ## Development server
 

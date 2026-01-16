@@ -1,0 +1,15 @@
+carreras:
+  - id: trabajo-social
+    nombre: Trabajo Social
+    advertencia: "⚠️ Algunas baterías de preguntas han sido generadas con Inteligencia Artificial y pueden contener errores o imprecisiones. Se recomienda verificar la información con fuentes académicas oficiales."
+    materias:
+      - id: comprension
+        nombre: Compresión Lectora y Producción Escrita
+        archivo: trabajoSocial/preguntas/comprension.ia.yaml
+        descripcion: Evaluación sobre comprensión de textos académicos
+        generadoPorIA: true
+      - id: estrategias
+        nombre: ESTRATEGIA DE APRENDIZAJE
+        archivo: trabajoSocial/preguntas/estrategias.ia.yaml
+        descripcion: Evaluación sobre estrategias de aprendizaje y neuroeducación
+        generadoPorIA: true
