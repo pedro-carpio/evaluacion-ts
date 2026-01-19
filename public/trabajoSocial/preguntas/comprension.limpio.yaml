@@ -1,0 +1,69 @@
+- pregunta: "1.- La lectura es:"
+  respuesta_correcta: "Un proceso cognitivo y visual de decodificar símbolos escritos para comprender un mensaje, extraer información y construir significado."
+  respuestas_incorrectas:
+    - "Es un hábito y una habilidad que se desarrolla con la práctica."
+    - "Es la acción que tiene el ser humano de mencionar las palabras y párrafos que están escritos."
+    - "Ninguno"
+
+- pregunta: "2.- Leer permite que el alumno haga relación entre:"
+  respuesta_correcta: "Lo que lee y sus conocimientos previos"
+  respuestas_incorrectas:
+    - "Entre la ortografía y la sintaxis"
+    - "Entre todos los elementos que tiene el texto."
+    - "Ninguno"
+
+- pregunta: "3.- La escritura es:"
+  respuesta_correcta: "Un proceso de comunicación a través de grafías o palabras con determinados propósitos."
+  respuestas_incorrectas:
+    - "Es la habilidad de plasmar palabras en un papel."
+    - "La habilidad del manejo de un bolígrafo y una buena ortografía."
+    - "Ninguno"
+
+- pregunta: "4.- Para escribir se deben conocer las reglas:"
+  respuesta_correcta: "La gramática y la ortografía"
+  respuestas_incorrectas:
+    - "De las plataformas para no ser bloqueado."
+    - "Que el docente impone en el curso."
+    - "Ninguno"
+
+- pregunta: "5.- Las fases de la escritura son (completar):"
+  respuesta_correcta: "Planificación (pre-escritura), Textualización (producción escrita) y Revisión."
+  respuestas_incorrectas:
+    - "Lectura, subrayado y memorización."
+    - "Introducción, desarrollo y conclusión."
+    - "Investigación, copia y corrección."
+
+- pregunta: "6.- Una estrategia es:"
+  respuesta_correcta: "Un conjunto de acciones ordenadas y finalizadas con un determinado objetivo"
+  respuestas_incorrectas:
+    - "Un mecanismo de control."
+    - "Elemento que siempre se encuentra presente en un conflicto social."
+    - "Ninguno"
+
+- pregunta: "7.- La UNIDIRECCIÓN en la estrategia implica:"
+  respuesta_correcta: "La existencia de un objetivo y la conciencia de que ese objetivo existe."
+  respuestas_incorrectas:
+    - "Que no hay dos o más direcciones en la lectura."
+    - "El estudiante no tiene mas que una sola alternativa."
+    - "Ninguno"
+
+- pregunta: "8.- Uno de los elementos que permite la comprensión de lo que se lee, es que depende:"
+  respuesta_correcta: "De la claridad y coherencia del contenido de los textos"
+  respuestas_incorrectas:
+    - "De un coeficiente intelectual alto."
+    - "De uno mismo."
+    - "Ninguno"
+
+- pregunta: "9.- Mencione algunas estrategias de lectura:"
+  respuesta_correcta: "Muestreo, predicción, inferencia, confirmación y corrección."
+  respuestas_incorrectas:
+    - "Leer rápidamente, memorizar y repetir."
+    - "Copiar el texto completo y releerlo."
+    - "Buscar únicamente definiciones de diccionario."
+
+- pregunta: "10.- Que tipo de texto tiene por objetivo convencer al lector?"
+  respuesta_correcta: "El texto argumentativo."
+  respuestas_incorrectas:
+    - "El texto narrativo."
+    - "El texto descriptivo."
+    - "El texto informativo."

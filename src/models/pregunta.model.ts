@@ -11,6 +11,7 @@ export interface Materia {
   archivo: string;
   descripcion: string;
   generadoPorIA?: boolean;
+  privado?: boolean;
 }
 
 export interface Carrera {

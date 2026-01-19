@@ -46,20 +46,22 @@ import { Carrera, Materia } from '../models/pregunta.model';
 
               <div class="materias-grid">
                 @for (materia of carrera.materias; track materia.id) {
-                  <button
-                    type="button"
-                    class="materia-card"
-                    (click)="seleccionarMateria(carrera.id, materia)"
-                  >
-                    <h3 class="materia-nombre">
-                      {{ materia.nombre }}
-                      @if (materia.generadoPorIA) {
-                        <span class="badge-ia">IA</span>
-                      }
-                    </h3>
-                    <p class="materia-descripcion">{{ materia.descripcion }}</p>
-                    <span class="materia-accion">Tomar evaluación →</span>
-                  </button>
+                  @if (!materia.privado) {
+                    <button
+                      type="button"
+                      class="materia-card"
+                      (click)="seleccionarMateria(carrera.id, materia)"
+                    >
+                      <h3 class="materia-nombre">
+                        {{ materia.nombre }}
+                        @if (materia.generadoPorIA) {
+                          <span class="badge-ia">IA</span>
+                        }
+                      </h3>
+                      <p class="materia-descripcion">{{ materia.descripcion }}</p>
+                      <span class="materia-accion">Tomar evaluación →</span>
+                    </button>
+                  }
                 }
               </div>
             </section>

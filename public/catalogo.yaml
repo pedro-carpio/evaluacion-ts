@@ -8,13 +8,22 @@ carreras:
         archivo: trabajoSocial/preguntas/comprension.ia.yaml
         descripcion: Evaluación sobre comprensión de textos académicos
         generadoPorIA: true
+        privado: false
       - id: estrategias
         nombre: ESTRATEGIA DE APRENDIZAJE
         archivo: trabajoSocial/preguntas/estrategias.ia.yaml
         descripcion: Evaluación sobre estrategias de aprendizaje y neuroeducación
         generadoPorIA: true
+        privado: false
       - id: comprension-primer-parcial
         nombre: Compresión Lectora y Producción Escrita - Primer Parcial
         archivo: trabajoSocial/preguntas/comprension.yaml
         descripcion: Evaluación sobre comprensión de textos académicos del primer parcial, generada a partir de las respuestas en las presentaciones
         generadoPorIA: false
+        privado: false
+      - id: comprension-limpio
+        nombre: Compresión Lectora y Producción Escrita - Versión Limpia
+        archivo: trabajoSocial/preguntas/comprension.limpio.yaml
+        descripcion: Evaluación sobre comprensión de textos académicos del primer parcial, sin errores de IA
+        generadoPorIA: false
+        privado: true
