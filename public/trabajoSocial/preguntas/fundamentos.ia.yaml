@@ -1,0 +1,399 @@
+- pregunta: "¿Cuál es el objetivo central del Trabajo Social como disciplina?"
+  probabilidad: 0.92
+  respuesta_correcta: "Comprender y transformar los problemas sociales desde una perspectiva ética y crítica."
+  respuestas_incorrectas:
+    - "Administrar recursos económicos del Estado."
+    - "Brindar ayuda caritativa sin planificación."
+    - "Analizar únicamente conductas individuales."
+
+- pregunta: "¿Qué estudian principalmente las ciencias sociales?"
+  probabilidad: 0.9
+  respuesta_correcta: "La sociedad, las relaciones sociales y los problemas sociales."
+  respuestas_incorrectas:
+    - "Los procesos biológicos del cuerpo humano."
+    - "El comportamiento individual sin contexto social."
+    - "La producción artística contemporánea."
+
+- pregunta: "¿Cuál es el foco principal de las ciencias humanas?"
+  probabilidad: 0.88
+  respuesta_correcta: "El ser humano, su comportamiento, cultura y pensamiento."
+  respuestas_incorrectas:
+    - "Las estructuras económicas globales."
+    - "Los sistemas políticos comparados."
+    - "Los procesos industriales."
+
+- pregunta: "¿Qué tienen en común las ciencias sociales y las ciencias humanas?"
+  probabilidad: 0.85
+  respuesta_correcta: "Buscan comprender al ser humano en sociedad."
+  respuestas_incorrectas:
+    - "Se enfocan únicamente en datos cuantitativos."
+    - "Analizan exclusivamente fenómenos naturales."
+    - "Estudian solo el mercado laboral."
+
+- pregunta: "¿Qué disciplina se relaciona principalmente con el estudio de la pobreza?"
+  probabilidad: 0.87
+  respuesta_correcta: "La economía."
+  respuestas_incorrectas:
+    - "La lingüística."
+    - "La biología."
+    - "La física."
+
+- pregunta: "¿Qué disciplina permite analizar la violencia desde una perspectiva social?"
+  probabilidad: 0.86
+  respuesta_correcta: "La sociología."
+  respuestas_incorrectas:
+    - "La astronomía."
+    - "La matemática pura."
+    - "La geología."
+
+- pregunta: "¿Qué ciencia se centra en el estudio de la cultura?"
+  probabilidad: 0.84
+  respuesta_correcta: "La antropología."
+  respuestas_incorrectas:
+    - "La economía."
+    - "La ciencia política."
+    - "La estadística."
+
+- pregunta: "¿Qué idea refleja mejor el análisis de los problemas sociales?"
+  probabilidad: 0.93
+  respuesta_correcta: "Un problema social no se explica desde una sola ciencia."
+  respuestas_incorrectas:
+    - "Cada problema tiene una única causa individual."
+    - "Los problemas sociales son exclusivamente económicos."
+    - "La psicología explica todos los fenómenos sociales."
+
+- pregunta: "¿Qué se entiende por industrialización?"
+  probabilidad: 0.89
+  respuesta_correcta: "El paso de una economía agraria y artesanal a una economía industrial y capitalista."
+  respuestas_incorrectas:
+    - "La desaparición del trabajo asalariado."
+    - "El retorno a la producción rural."
+    - "La reducción del uso de máquinas."
+
+- pregunta: "¿Cuál fue una consecuencia económica de la industrialización?"
+  probabilidad: 0.86
+  respuesta_correcta: "La acumulación de riqueza en la burguesía."
+  respuestas_incorrectas:
+    - "La igualdad económica inmediata."
+    - "La eliminación de clases sociales."
+    - "La desaparición del comercio."
+
+- pregunta: "¿Qué grupo social surge con fuerza durante la industrialización?"
+  probabilidad: 0.88
+  respuesta_correcta: "La clase obrera o proletariado."
+  respuestas_incorrectas:
+    - "La nobleza feudal."
+    - "La aristocracia rural."
+    - "La élite religiosa."
+
+- pregunta: "¿Cuál fue un cambio social provocado por la industrialización?"
+  probabilidad: 0.9
+  respuesta_correcta: "La migración del campo a la ciudad."
+  respuestas_incorrectas:
+    - "La disminución del crecimiento urbano."
+    - "La estabilidad de las comunidades rurales."
+    - "La desaparición de la pobreza."
+
+- pregunta: "¿Qué caracteriza las condiciones de vida de la clase trabajadora industrial?"
+  probabilidad: 0.91
+  respuesta_correcta: "Jornadas laborales extensas y bajos salarios."
+  respuestas_incorrectas:
+    - "Altos salarios y jornadas reducidas."
+    - "Acceso universal a derechos laborales."
+    - "Pleno bienestar social."
+
+- pregunta: "¿Qué se denomina 'cuestión social'?"
+  probabilidad: 0.94
+  respuesta_correcta: "El conjunto de problemas sociales surgidos con la industrialización."
+  respuestas_incorrectas:
+    - "Un debate filosófico abstracto."
+    - "Una política económica estatal."
+    - "Un fenómeno exclusivamente cultural."
+
+- pregunta: "¿Cuál de los siguientes es un problema incluido en la cuestión social?"
+  probabilidad: 0.9
+  respuesta_correcta: "La explotación laboral."
+  respuestas_incorrectas:
+    - "La rotación de cultivos."
+    - "El avance tecnológico."
+    - "La innovación científica."
+
+- pregunta: "¿Qué forma de respuesta social se caracteriza por la ayuda inmediata y asistencial?"
+  probabilidad: 0.87
+  respuesta_correcta: "La beneficencia."
+  respuestas_incorrectas:
+    - "La profesionalización."
+    - "La investigación social."
+    - "La planificación comunitaria."
+
+- pregunta: "¿Qué diferencia a la filantropía de la beneficencia?"
+  probabilidad: 0.85
+  respuesta_correcta: "Es más planificada y puede tener un alcance de mediano o largo plazo."
+  respuestas_incorrectas:
+    - "Es exclusivamente individual."
+    - "Rechaza toda forma de ayuda."
+    - "No busca el bienestar social."
+
+- pregunta: "¿Por qué surge el Trabajo Social como profesión?"
+  probabilidad: 0.92
+  respuesta_correcta: "Por la necesidad de organizar la ayuda social ante problemas complejos."
+  respuestas_incorrectas:
+    - "Para reemplazar a las ciencias sociales."
+    - "Como actividad exclusivamente voluntaria."
+    - "Para eliminar la intervención estatal."
+
+- pregunta: "¿Qué caracteriza al Trabajo Social contemporáneo?"
+  probabilidad: 0.93
+  respuesta_correcta: "La superación del asistencialismo y la promoción de derechos."
+  respuestas_incorrectas:
+    - "El retorno a la caridad tradicional."
+    - "La ausencia de fundamentos teóricos."
+    - "La intervención improvisada."
+
+- pregunta: "¿Cuál fue un aporte clave de la Charity Organization Society?"
+  probabilidad: 0.84
+  respuesta_correcta: "La organización y registro sistemático de la ayuda social."
+  respuestas_incorrectas:
+    - "La eliminación de la visita domiciliaria."
+    - "La asistencia sin control."
+    - "El rechazo de la capacitación."
+
+- pregunta: "¿Qué introdujo Mary Richmond al Trabajo Social?"
+  probabilidad: 0.9
+  respuesta_correcta: "El diagnóstico social y el método de caso individual."
+  respuestas_incorrectas:
+    - "La acción comunitaria sin método."
+    - "La beneficencia espontánea."
+    - "La teoría económica marxista."
+
+- pregunta: "¿Qué aspecto central destacó Jane Addams?"
+  probabilidad: 0.89
+  respuesta_correcta: "El trabajo comunitario y la participación social."
+  respuestas_incorrectas:
+    - "La adaptación individual al sistema."
+    - "La atención clínica individual."
+    - "La neutralidad ética."
+
+- pregunta: "¿Qué diferencia principal existe entre los enfoques de Nueva York y Chicago?"
+  probabilidad: 0.88
+  respuesta_correcta: "Caso individual frente a intervención comunitaria."
+  respuestas_incorrectas:
+    - "Teoría frente a práctica sin método."
+    - "Ayuda estatal frente a ayuda privada."
+    - "Investigación frente a voluntariado."
+
+- pregunta: "¿Cuáles son los niveles clásicos de intervención del Trabajo Social?"
+  probabilidad: 0.9
+  respuesta_correcta: "Caso, grupo y comunidad."
+  respuestas_incorrectas:
+    - "Individual, empresarial y estatal."
+    - "Local, nacional e internacional."
+    - "Teórico, técnico y administrativo."
+
+- pregunta: "¿Qué etapa del Trabajo Social se caracteriza por un enfoque paternalista?"
+  probabilidad: 0.86
+  respuesta_correcta: "La etapa técnica."
+  respuestas_incorrectas:
+    - "La reconceptualización."
+    - "La corriente dialéctica."
+    - "Los aportes contemporáneos."
+
+- pregunta: "¿Qué visión del individuo predomina en la etapa técnica?"
+  probabilidad: 0.85
+  respuesta_correcta: "El individuo como problema a adaptar al medio."
+  respuestas_incorrectas:
+    - "El individuo como sujeto transformador."
+    - "El individuo como actor político."
+    - "El individuo como agente colectivo."
+
+- pregunta: "¿Qué cambio introduce la profesionalización del Trabajo Social?"
+  probabilidad: 0.9
+  respuesta_correcta: "El reconocimiento del individuo como sujeto activo."
+  respuestas_incorrectas:
+    - "La eliminación de la participación."
+    - "El refuerzo del asistencialismo."
+    - "La negación del trabajo comunitario."
+
+- pregunta: "¿Qué objetivo tiene el Trabajo Social con grupos y comunidades?"
+  probabilidad: 0.88
+  respuesta_correcta: "Fortalecer capacidades colectivas y prevenir problemas sociales."
+  respuestas_incorrectas:
+    - "Aumentar la dependencia institucional."
+    - "Sustituir al Estado."
+    - "Reducir la participación social."
+
+- pregunta: "¿Qué cuestiona la corriente dialéctica?"
+  probabilidad: 0.9
+  respuesta_correcta: "La adaptación del individuo a un sistema injusto."
+  respuestas_incorrectas:
+    - "La necesidad de transformación social."
+    - "La conciencia crítica."
+    - "La intervención profesional."
+
+- pregunta: "¿Qué propone la corriente dialéctica?"
+  probabilidad: 0.92
+  respuesta_correcta: "La transformación de las estructuras sociales."
+  respuestas_incorrectas:
+    - "La neutralidad política."
+    - "La ayuda asistencial permanente."
+    - "La adaptación pasiva."
+
+- pregunta: "¿Qué significa la reconceptualización del Trabajo Social?"
+  probabilidad: 0.91
+  respuesta_correcta: "Un enfoque comprometido con la liberación y el cambio social."
+  respuestas_incorrectas:
+    - "El abandono de la práctica profesional."
+    - "El regreso a la caridad."
+    - "La negación de la teoría."
+
+- pregunta: "¿Qué se entiende por praxis en Trabajo Social?"
+  probabilidad: 0.89
+  respuesta_correcta: "La unión entre reflexión crítica y acción transformadora."
+  respuestas_incorrectas:
+    - "La práctica sin reflexión."
+    - "El análisis teórico sin acción."
+    - "La repetición de procedimientos."
+
+- pregunta: "¿Cuál es la meta ética del Trabajo Social actual?"
+  probabilidad: 0.94
+  respuesta_correcta: "La justicia social y el bienestar integral de las personas y comunidades."
+  respuestas_incorrectas:
+    - "La neutralidad frente a los conflictos sociales."
+    - "El beneficio económico de las instituciones."
+    - "La asistencia puntual sin seguimiento."
+
+- pregunta: "¿Qué rol cumple la ética en la práctica del Trabajo Social?"
+  probabilidad: 0.91
+  respuesta_correcta: "Orientar la intervención hacia la dignidad, los derechos y la justicia social."
+  respuestas_incorrectas:
+    - "Limitar la intervención profesional."
+    - "Sustituir el conocimiento teórico."
+    - "Justificar prácticas asistencialistas."
+
+- pregunta: "¿Qué diferencia al Trabajo Social de la caridad tradicional?"
+  probabilidad: 0.93
+  respuesta_correcta: "La intervención planificada basada en teoría, método y ética."
+  respuestas_incorrectas:
+    - "La espontaneidad de la ayuda."
+    - "La ausencia de formación académica."
+    - "La acción individual sin análisis social."
+
+- pregunta: "¿Qué papel cumple el Estado en el desarrollo histórico del Trabajo Social?"
+  probabilidad: 0.88
+  respuesta_correcta: "Organizar y ampliar la atención social más allá de la caridad."
+  respuestas_incorrectas:
+    - "Eliminar toda forma de ayuda social."
+    - "Reemplazar a las comunidades."
+    - "Limitar la intervención profesional."
+
+- pregunta: "¿Qué caracteriza a un problema social complejo?"
+  probabilidad: 0.9
+  respuesta_correcta: "Requiere múltiples perspectivas para su comprensión e intervención."
+  respuestas_incorrectas:
+    - "Tiene una única causa individual."
+    - "Se resuelve solo con ayuda económica."
+    - "No necesita análisis social."
+
+- pregunta: "¿Por qué el Trabajo Social se apoya en varias disciplinas?"
+  probabilidad: 0.92
+  respuesta_correcta: "Porque los problemas sociales tienen causas estructurales e individuales."
+  respuestas_incorrectas:
+    - "Para reemplazar a otras ciencias."
+    - "Para evitar el análisis teórico."
+    - "Para simplificar la realidad social."
+
+- pregunta: "¿Qué significa promover derechos en el Trabajo Social?"
+  probabilidad: 0.89
+  respuesta_correcta: "Garantizar el acceso y ejercicio de derechos sociales fundamentales."
+  respuestas_incorrectas:
+    - "Otorgar ayudas sin criterios."
+    - "Delegar la responsabilidad en individuos."
+    - "Reducir la intervención estatal."
+
+- pregunta: "¿Qué implica la participación social en la intervención profesional?"
+  probabilidad: 0.87
+  respuesta_correcta: "Involucrar a las personas como actores activos del cambio."
+  respuestas_incorrectas:
+    - "Excluir a la comunidad del proceso."
+    - "Centralizar decisiones en el profesional."
+    - "Limitar la autonomía colectiva."
+
+- pregunta: "¿Qué se busca al superar el asistencialismo?"
+  probabilidad: 0.93
+  respuesta_correcta: "Generar cambios sostenibles y empoderamiento social."
+  respuestas_incorrectas:
+    - "Aumentar la dependencia institucional."
+    - "Reducir la intervención profesional."
+    - "Mantener ayudas temporales sin evaluación."
+
+- pregunta: "¿Cuál es una característica del Trabajo Social como disciplina científica?"
+  probabilidad: 0.9
+  respuesta_correcta: "El uso de métodos sistemáticos para analizar e intervenir en la realidad social."
+  respuestas_incorrectas:
+    - "La improvisación permanente."
+    - "La ausencia de fundamentos teóricos."
+    - "La acción exclusivamente voluntaria."
+
+- pregunta: "¿Qué finalidad tiene la evaluación en el ciclo del Trabajo Social?"
+  probabilidad: 0.88
+  respuesta_correcta: "Valorar los resultados y ajustar la intervención."
+  respuestas_incorrectas:
+    - "Finalizar el proceso sin análisis."
+    - "Registrar únicamente datos administrativos."
+    - "Eliminar la planificación."
+
+- pregunta: "¿Qué visión del cambio social predomina en el Trabajo Social actual?"
+  probabilidad: 0.94
+  respuesta_correcta: "El cambio construido con los sujetos sociales y no sobre ellos."
+  respuestas_incorrectas:
+    - "El cambio impuesto externamente."
+    - "La adaptación pasiva al sistema."
+    - "La neutralidad frente a la desigualdad."
+
+- pregunta: "¿Qué relación existe entre Trabajo Social y justicia social?"
+  probabilidad: 0.95
+  respuesta_correcta: "El Trabajo Social orienta su acción a reducir desigualdades e injusticias."
+  respuestas_incorrectas:
+    - "No existe relación directa."
+    - "La justicia social es solo un ideal teórico."
+    - "Es un objetivo exclusivo del Estado."
+
+- pregunta: "¿Qué define al Trabajo Social como práctica transformadora?"
+  probabilidad: 0.92
+  respuesta_correcta: "La articulación entre análisis crítico, acción profesional y compromiso ético."
+  respuestas_incorrectas:
+    - "La asistencia ocasional."
+    - "La neutralidad frente a los conflictos."
+    - "La repetición de acciones sin reflexión."
+
+- pregunta: "¿Cuál es el horizonte final del Trabajo Social contemporáneo?"
+  probabilidad: 0.96
+  respuesta_correcta: "Construir una sociedad más justa, inclusiva y con bienestar social."
+  respuestas_incorrectas:
+    - "Mantener el orden social existente sin cuestionarlo."
+    - "Limitar la acción a emergencias."
+    - "Reducir la intervención a la caridad."
+
+- pregunta: "¿Cuál era el objetivo principal de la ayuda social y la asistencia en sus inicios históricos?"
+  probabilidad: 0.91
+  respuesta_correcta: "Aliviar necesidades inmediatas frente a situaciones de pobreza y vulnerabilidad."
+  respuestas_incorrectas:
+    - "Transformar las estructuras sociales de forma integral."
+    - "Promover la participación política de las comunidades."
+    - "Garantizar derechos sociales universales."
+
+- pregunta: "¿Cuál es la función del registro dentro del Trabajo Social profesional?"
+  probabilidad: 0.89
+  respuesta_correcta: "Sistematizar la información para fundamentar, planificar y evaluar la intervención social."
+  respuestas_incorrectas:
+    - "Cumplir únicamente con requisitos administrativos."
+    - "Reemplazar el diagnóstico social."
+    - "Limitar la intervención del profesional."
+
+- pregunta: "¿Por qué se afirma que los objetivos del Trabajo Social cambian a lo largo de la historia?"
+  probabilidad: 0.93
+  respuesta_correcta: "Porque responden a distintos contextos sociales y a formas cambiantes de entender al ser humano, la sociedad y el Estado."
+  respuestas_incorrectas:
+    - "Porque dependen exclusivamente de decisiones individuales."
+    - "Porque no poseen una base teórica estable."
+    - "Porque el Trabajo Social carece de continuidad histórica."

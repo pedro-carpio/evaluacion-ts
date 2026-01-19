@@ -33,3 +33,9 @@ carreras:
         descripcion: Evaluación sobre comprensión de textos académicos del primer parcial, sin errores de IA
         generadoPorIA: false
         privado: true
+      - id: fundamentos
+        nombre: Fundamentos del Trabajo Social
+        archivo: trabajoSocial/preguntas/fundamentos.ia.yaml
+        descripcion: Evaluación sobre fundamentos del trabajo social
+        generadoPorIA: true
+        privado: false
