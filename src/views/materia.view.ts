@@ -39,6 +39,7 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
               <option [value]="15" [selected]="cantidadPreguntas() === 15">15 preguntas</option>
               <option [value]="25" [selected]="cantidadPreguntas() === 25">25 preguntas</option>
               <option [value]="50" [selected]="cantidadPreguntas() === 50">50 preguntas</option>
+              <option [value]="-1" [selected]="cantidadPreguntas() === -1">Todas las preguntas</option>
             </select>
           </div>
 
@@ -770,14 +771,17 @@ export class MateriaView implements OnInit, OnDestroy {
 
   cambiarCantidad(event: Event): void {
     const select = event.target as HTMLSelectElement;
-    this.cantidadPreguntas.set(Number(select.value));
+    const valor = Number(select.value);
+    this.cantidadPreguntas.set(valor);
     this.generarPreguntasAleatorias();
   }
 
   generarPreguntasAleatorias(): void {
+    const cantidad = this.cantidadPreguntas();
+    const cantidadReal = cantidad === -1 ? this.todasLasPreguntas.length : cantidad;
     const preguntas = this.evaluacionService.generarPreguntasAleatorias(
       this.todasLasPreguntas,
-      this.cantidadPreguntas()
+      cantidadReal
     );
     this.preguntasActuales.set(preguntas);
   }
