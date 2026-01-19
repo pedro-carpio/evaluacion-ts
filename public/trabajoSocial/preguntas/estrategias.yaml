@@ -1,0 +1,349 @@
+- pregunta: "El aprendizaje se define principalmente como:"
+  respuesta_correcta: "Un proceso activo y continuo de construcción del conocimiento"
+  respuestas_incorrectas:
+    - "La repetición constante de información"
+    - "La memorización de contenidos"
+    - "La acumulación de datos"
+
+- pregunta: "Aprender implica un cambio en:"
+  respuesta_correcta: "La forma de pensar, actuar y comprender"
+  respuestas_incorrectas:
+    - "Solo la memoria"
+    - "Únicamente el comportamiento"
+    - "La velocidad de estudio"
+
+- pregunta: "El aprendizaje verdadero se evidencia cuando una persona puede:"
+  respuesta_correcta: "Aplicar lo aprendido en nuevas situaciones"
+  respuestas_incorrectas:
+    - "Repetir definiciones"
+    - "Memorizar conceptos"
+    - "Leer rápidamente"
+
+- pregunta: "¿Cuál es la función principal de la atención en el aprendizaje?"
+  respuesta_correcta: "Iniciar el proceso de aprendizaje"
+  respuestas_incorrectas:
+    - "Decorar la información"
+    - "Repetir contenidos"
+    - "Memorizar automáticamente"
+
+- pregunta: "La atención se activa con mayor facilidad cuando el contenido:"
+  respuesta_correcta: "Tiene sentido y genera interés"
+  respuestas_incorrectas:
+    - "Es largo"
+    - "Es abstracto"
+    - "Es repetitivo"
+
+- pregunta: "El compromiso activo implica principalmente:"
+  respuesta_correcta: "Participar, analizar y producir"
+  respuestas_incorrectas:
+    - "Escuchar en silencio"
+    - "Copiar información"
+    - "Memorizar textos"
+
+- pregunta: "El aprendizaje superficial ocurre cuando el estudiante:"
+  respuesta_correcta: "Solo recibe información"
+  respuestas_incorrectas:
+    - "Aplica lo aprendido"
+    - "Reflexiona críticamente"
+    - "Explica a otros"
+
+- pregunta: "La consolidación del aprendizaje requiere:"
+  respuesta_correcta: "Práctica, reflexión y descanso"
+  respuestas_incorrectas:
+    - "Estudio de última hora"
+    - "Repetición mecánica"
+    - "Evaluaciones finales"
+
+- pregunta: "¿Qué ocurre si el aprendizaje no se consolida?"
+  respuesta_correcta: "Se olvida"
+  respuestas_incorrectas:
+    - "Se fortalece"
+    - "Se automatiza"
+    - "Se acelera"
+
+- pregunta: "El error productivo se considera:"
+  respuesta_correcta: "Una parte necesaria del aprendizaje"
+  respuestas_incorrectas:
+    - "Un fracaso"
+    - "Algo que debe evitarse"
+    - "Un castigo académico"
+
+- pregunta: "Los estilos de aprendizaje son:"
+  respuesta_correcta: "Preferencias para aprender"
+  respuestas_incorrectas:
+    - "Capacidades intelectuales"
+    - "Habilidades innatas"
+    - "Métodos de evaluación"
+
+- pregunta: "Conocer el propio estilo de aprendizaje permite:"
+  respuesta_correcta: "Elegir mejores estrategias de estudio"
+  respuestas_incorrectas:
+    - "Limitar el aprendizaje"
+    - "Aprender solo de una forma"
+    - "Evitar el esfuerzo"
+
+- pregunta: "El modelo VARK se basa en:"
+  respuesta_correcta: "Canales sensoriales"
+  respuestas_incorrectas:
+    - "Tipos de inteligencia"
+    - "Niveles cognitivos"
+    - "Etapas del desarrollo"
+
+- pregunta: "El estilo visual aprende mejor mediante:"
+  respuesta_correcta: "Esquemas y gráficos"
+  respuestas_incorrectas:
+    - "Debates"
+    - "Audios"
+    - "Dramatizaciones"
+
+- pregunta: "El estilo auditivo se beneficia principalmente de:"
+  respuesta_correcta: "Escucha y diálogo"
+  respuestas_incorrectas:
+    - "Lectura silenciosa"
+    - "Mapas conceptuales"
+    - "Actividades físicas"
+
+- pregunta: "El estilo lector-escritor prefiere:"
+  respuesta_correcta: "Textos y escritura"
+  respuestas_incorrectas:
+    - "Videos"
+    - "Prácticas"
+    - "Juegos de roles"
+
+- pregunta: "El estilo kinestésico aprende mejor cuando:"
+  respuesta_correcta: "Realiza actividades prácticas"
+  respuestas_incorrectas:
+    - "Escucha explicaciones"
+    - "Observa imágenes"
+    - "Lee textos largos"
+
+- pregunta: "El aprendizaje según Kolb es un proceso:"
+  respuesta_correcta: "Cíclico"
+  respuestas_incorrectas:
+    - "Lineal"
+    - "Memorístico"
+    - "Repetitivo"
+
+- pregunta: "El estilo divergente se caracteriza por:"
+  respuesta_correcta: "Reflexión y creatividad"
+  respuestas_incorrectas:
+    - "Acción inmediata"
+    - "Aplicación técnica"
+    - "Memorización teórica"
+
+- pregunta: "El estilo asimilador prioriza:"
+  respuesta_correcta: "El pensamiento teórico"
+  respuestas_incorrectas:
+    - "La experiencia práctica"
+    - "La acción directa"
+    - "El ensayo y error"
+
+- pregunta: "El estilo convergente se orienta a:"
+  respuesta_correcta: "La aplicación práctica"
+  respuestas_incorrectas:
+    - "La reflexión emocional"
+    - "La observación pasiva"
+    - "La expresión artística"
+
+- pregunta: "El estilo acomodador aprende principalmente mediante:"
+  respuesta_correcta: "Acción y experiencia directa"
+  respuestas_incorrectas:
+    - "Lectura teórica"
+    - "Reflexión profunda"
+    - "Análisis conceptual"
+
+- pregunta: "La teoría de las inteligencias múltiples sostiene que:"
+  respuesta_correcta: "Existen distintas capacidades"
+  respuestas_incorrectas:
+    - "La inteligencia es única"
+    - "Todas las personas son iguales"
+    - "Solo importa la lógica"
+
+- pregunta: "Todas las personas:"
+  respuesta_correcta: "Poseen todas las inteligencias en distinto grado"
+  respuestas_incorrectas:
+    - "Tienen una sola inteligencia"
+    - "Carecen de inteligencia"
+    - "Aprenden igual"
+
+- pregunta: "La inteligencia lingüística se relaciona con:"
+  respuesta_correcta: "El lenguaje"
+  respuestas_incorrectas:
+    - "El movimiento"
+    - "La música"
+    - "El espacio"
+
+- pregunta: "La inteligencia lógico-matemática se asocia con:"
+  respuesta_correcta: "El razonamiento lógico"
+  respuestas_incorrectas:
+    - "La creatividad artística"
+    - "La empatía"
+    - "La expresión corporal"
+
+- pregunta: "La inteligencia espacial implica:"
+  respuesta_correcta: "Representación visual del espacio"
+  respuestas_incorrectas:
+    - "Uso del lenguaje"
+    - "Manejo de números"
+    - "Comprensión emocional"
+
+- pregunta: "La inteligencia musical se caracteriza por:"
+  respuesta_correcta: "Sensibilidad al ritmo y sonido"
+  respuestas_incorrectas:
+    - "Capacidad de cálculo"
+    - "Coordinación corporal"
+    - "Habilidad social"
+
+- pregunta: "La inteligencia corporal-kinestésica se relaciona con:"
+  respuesta_correcta: "Movimiento y acción"
+  respuestas_incorrectas:
+    - "Escritura"
+    - "Música"
+    - "Análisis lógico"
+
+- pregunta: "La inteligencia interpersonal se refiere a:"
+  respuesta_correcta: "Relación con otros"
+  respuestas_incorrectas:
+    - "Autoconocimiento"
+    - "Observación de la naturaleza"
+    - "Pensamiento abstracto"
+
+- pregunta: "La inteligencia intrapersonal implica:"
+  respuesta_correcta: "Autoconocimiento"
+  respuestas_incorrectas:
+    - "Liderazgo"
+    - "Comunicación verbal"
+    - "Razonamiento matemático"
+
+- pregunta: "La inteligencia naturalista se vincula con:"
+  respuesta_correcta: "La naturaleza"
+  respuestas_incorrectas:
+    - "La tecnología"
+    - "El lenguaje"
+    - "La música"
+
+- pregunta: "Las estrategias de aprendizaje son:"
+  respuesta_correcta: "Acciones conscientes para aprender"
+  respuestas_incorrectas:
+    - "Técnicas de memorización"
+    - "Métodos de evaluación"
+    - "Recursos tecnológicos"
+
+- pregunta: "Las estrategias ayudan a:"
+  respuesta_correcta: "Aprender de forma autónoma"
+  respuestas_incorrectas:
+    - "Estudiar menos"
+    - "Evitar errores"
+    - "Memorizar sin esfuerzo"
+
+- pregunta: "Las estrategias están relacionadas con:"
+  respuesta_correcta: "La autorregulación"
+  respuestas_incorrectas:
+    - "La improvisación"
+    - "El castigo"
+    - "El azar"
+
+- pregunta: "Las estrategias para el estilo visual priorizan:"
+  respuesta_correcta: "Representaciones gráficas"
+  respuestas_incorrectas:
+    - "Audios"
+    - "Debates"
+    - "Dramatizaciones"
+
+- pregunta: "Las estrategias auditivas se basan en:"
+  respuesta_correcta: "Escucha y verbalización"
+  respuestas_incorrectas:
+    - "Escritura"
+    - "Movimiento"
+    - "Dibujo"
+
+- pregunta: "Las estrategias lector-escritor incluyen:"
+  respuesta_correcta: "Resúmenes y lecturas"
+  respuestas_incorrectas:
+    - "Simulaciones"
+    - "Juegos"
+    - "Experimentos"
+
+- pregunta: "Las estrategias kinestésicas se caracterizan por:"
+  respuesta_correcta: "Hacer y experimentar"
+  respuestas_incorrectas:
+    - "Escuchar"
+    - "Leer"
+    - "Memorizar"
+
+- pregunta: "Los organizadores gráficos son:"
+  respuesta_correcta: "Herramientas visuales"
+  respuestas_incorrectas:
+    - "Textos largos"
+    - "Audios educativos"
+    - "Exámenes"
+
+- pregunta: "Su principal función es:"
+  respuesta_correcta: "Organizar y relacionar información"
+  respuestas_incorrectas:
+    - "Decorar contenidos"
+    - "Evaluar conocimientos"
+    - "Memorizar textos"
+
+- pregunta: "¿Cuál No es un organizador gráfico?"
+  respuesta_correcta: "Examen escrito"
+  respuestas_incorrectas:
+    - "Mapa conceptual"
+    - "Línea de tiempo"
+    - "Infografía"
+
+- pregunta: "La infografía combina:"
+  respuesta_correcta: "Texto e imágenes"
+  respuestas_incorrectas:
+    - "Solo texto"
+    - "Solo imágenes"
+    - "Audio y video"
+
+- pregunta: "Una característica clave de la infografía es:"
+  respuesta_correcta: "Claridad y síntesis"
+  respuestas_incorrectas:
+    - "Textos extensos"
+    - "Complejidad"
+    - "Desorden visual"
+
+- pregunta: "El primer paso para elaborar una infografía es:"
+  respuesta_correcta: "Definir el tema y objetivo"
+  respuestas_incorrectas:
+    - "Diseñar colores"
+    - "Buscar imágenes"
+    - "Escribir párrafos largos"
+
+- pregunta: "La infografía favorece principalmente:"
+  respuesta_correcta: "El aprendizaje significativo"
+  respuestas_incorrectas:
+    - "La memorización mecánica"
+    - "El castigo"
+    - "La repetición"
+
+- pregunta: "Los organizadores gráficos benefician especialmente al estilo:"
+  respuesta_correcta: "Visual"
+  respuestas_incorrectas:
+    - "Auditivo"
+    - "Kinestésico"
+    - "Musical"
+
+- pregunta: "Las estrategias de aprendizaje permiten:"
+  respuesta_correcta: "Aprender a aprender"
+  respuestas_incorrectas:
+    - "Evitar el estudio"
+    - "Reducir el esfuerzo"
+    - "Copiar mejor"
+
+- pregunta: "Aprender estratégicamente implica:"
+  respuesta_correcta: "Planificar el estudio"
+  respuestas_incorrectas:
+    - "Improvisar"
+    - "Memorizar sin comprender"
+    - "Repetir contenidos"
+
+- pregunta: "El estudiante protagonista del aprendizaje es aquel que:"
+  respuesta_correcta: "Usa estrategias adecuadas"
+  respuestas_incorrectas:
+    - "Depende del docente"
+    - "Evita el error"
+    - "Memoriza contenidos"

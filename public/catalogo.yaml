@@ -15,6 +15,12 @@ carreras:
         descripcion: Evaluación sobre estrategias de aprendizaje y neuroeducación
         generadoPorIA: true
         privado: false
+      - id: estrategias-primer-parcial
+        nombre: ESTRATEGIA DE APRENDIZAJE - Primer Parcial
+        archivo: trabajoSocial/preguntas/estrategias.yaml
+        descripcion: Evaluación sobre estrategias de aprendizaje y neuroeducación del primer parcial (Batería de preguntas de la Docente de materia)
+        generadoPorIA: false
+        privado: false
       - id: comprension-primer-parcial
         nombre: Compresión Lectora y Producción Escrita - Primer Parcial
         archivo: trabajoSocial/preguntas/comprension.yaml
