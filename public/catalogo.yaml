@@ -13,3 +13,8 @@ carreras:
         archivo: trabajoSocial/preguntas/estrategias.ia.yaml
         descripcion: Evaluación sobre estrategias de aprendizaje y neuroeducación
         generadoPorIA: true
+      - id: comprension-primer-parcial
+        nombre: Compresión Lectora y Producción Escrita - Primer Parcial
+        archivo: trabajoSocial/preguntas/comprension.yaml
+        descripcion: Evaluación sobre comprensión de textos académicos del primer parcial, generada a partir de las respuestas en las presentaciones
+        generadoPorIA: false
