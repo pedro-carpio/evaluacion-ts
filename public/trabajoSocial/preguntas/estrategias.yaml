@@ -278,7 +278,7 @@
     - "Audios educativos"
     - "Exámenes"
 
-- pregunta: "Su principal función es:"
+- pregunta: "La principal función de los organizadores gráficos es:"
   respuesta_correcta: "Organizar y relacionar información"
   respuestas_incorrectas:
     - "Decorar contenidos"
