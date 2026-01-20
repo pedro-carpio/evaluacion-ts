@@ -39,3 +39,9 @@ carreras:
         descripcion: Evaluación sobre fundamentos del trabajo social
         generadoPorIA: true
         privado: false
+      - id: etica
+        nombre: Ética y Relaciones humanas
+        archivo: trabajoSocial/preguntas/etica.ia.yaml
+        descripcion: Evaluación sobre ética y relaciones humanas
+        generadoPorIA: true
+        privado: false

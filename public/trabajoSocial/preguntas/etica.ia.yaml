@@ -1,0 +1,467 @@
+- pregunta: "¿Cuál es la diferencia fundamental entre ética y moral?"
+  probabilidad: 100
+  respuesta_correcta: "La ética es la reflexión filosófica sobre la moral; la moral son las normas y costumbres prácticas."
+  respuestas_incorrectas:
+
+  - "La ética es práctica y la moral es exclusivamente teórica."
+  - "La moral regula sanciones legales, la ética no."
+  - "No existe diferencia; son sinónimos técnicos."
+
+- pregunta: "¿Por qué se afirma que la ética es una reflexión filosófica y la moral una práctica social?"
+  probabilidad: 98
+  respuesta_correcta: "Porque la ética analiza críticamente motivos y justificaciones; la moral opera como conjunto de normas aprendidas y practicadas."
+  respuestas_incorrectas:
+
+  - "Porque la ética sustituye al derecho positivo en la normativa social."
+  - "Porque la moral es solamente un código religioso sin implicaciones sociales."
+  - "Porque la ética dicta comportamientos obligatorios a la sociedad."
+
+- pregunta: "¿Cómo define la ética profesional, desde el enfoque de Derechos Humanos, aquello que es 'lo justo'?"
+  probabilidad: 97
+  respuesta_correcta: "Como aquello que favorece el bien común y la dignidad humana, garantizado por derechos inalienables."
+  respuestas_incorrectas:
+
+  - "Como lo que maximiza el interés institucional por encima de personas."
+  - "Como una costumbre local cuya validez no necesita justificación normativa."
+  - "Como la suma de preferencias individuales sin criterio universal."
+
+- pregunta: "¿Cuál es el principio de autodeterminación en la intervención social?"
+  probabilidad: 96
+  respuesta_correcta: "Facilitar que las personas tomen decisiones informadas sobre su vida y objetivos, respetando su voluntad."
+  respuestas_incorrectas:
+
+  - "Imponer la decisión profesional por la presunta incapacidad del usuario."
+  - "Priorizar la eficiencia institucional sobre la voluntad del usuario."
+  - "Delegar todas las decisiones a familiares o terceros sin consentimiento."
+
+- pregunta: "¿Por qué la confidencialidad es un principio central para la práctica profesional del Trabajo Social?"
+  probabilidad: 95
+  respuesta_correcta: "Porque protege la intimidad y promueve la confianza necesaria para una intervención efectiva y respetuosa."
+  respuestas_incorrectas:
+
+  - "Porque permite compartir datos con fines publicitarios institucionales."
+  - "Porque evita documentar casos para reducir carga administrativa."
+  - "Porque solo aplica en entornos comunitarios y no en atención individual."
+
+- pregunta: "¿Qué significa que el Trabajo Social no pueda asumirse desde una postura de neutralidad?"
+  probabilidad: 95
+  respuesta_correcta: "Implica un compromiso activo con la defensa de derechos y el empoderamiento de personas vulnerables, evitando la indiferencia ante injusticias."
+  respuestas_incorrectas:
+
+  - "Que el trabajador social debe tomar siempre partido por la institución."
+  - "Que la imparcialidad técnica está prohibida en todo contexto."
+  - "Que el profesional debe evitar pronunciarse en procesos administrativos."
+
+- pregunta: "¿En qué consiste el compromiso ético-político del trabajador social frente a poblaciones vulnerables?"
+  probabilidad: 94
+  respuesta_correcta: "Intervenir con enfoque de derechos, denunciar violaciones y promover acceso efectivo a servicios y recursos."
+  respuestas_incorrectas:
+
+  - "Priorizar la estabilidad institucional por encima de los reclamos sociales."
+  - "Ofrecer asistencia solo cuando convenga a objetivos políticos."
+  - "Delegar la defensa de derechos exclusivamente a abogados."
+
+- pregunta: "¿Cuál de los siguientes es un principio central del Trabajo Social?"
+  probabilidad: 94
+  respuesta_correcta: "Justicia social."
+  respuestas_incorrectas:
+
+  - "Competitividad como valor de mercado."
+  - "Exclusión selectiva de grupos vulnerables."
+  - "Rentabilidad institucional por encima del servicio."
+
+- pregunta: "¿Cuál es el orden jerárquico normativo que rige el ejercicio profesional en Bolivia, según los apuntes?"
+  probabilidad: 93
+  respuesta_correcta: "Constitución Política del Estado; Declaraciones y tratados internacionales de DDHH; leyes y reglamentos nacionales y subnacionales."
+  respuestas_incorrectas:
+
+  - "Reglamentos, luego Constitución, luego tratados internacionales."
+  - "Leyes locales, luego tratados internacionales, luego la Constitución."
+  - "Documentos institucionales internos por encima de la Constitución."
+
+- pregunta: "¿Cuál es la función principal del Código de Ética Profesional del trabajador social?"
+  probabilidad: 92
+  respuesta_correcta: "Regular la práctica profesional, establecer principios, deberes y procedimientos disciplinarios para garantizar integridad y protección de derechos."
+  respuestas_incorrectas:
+
+  - "Obligar a los trabajadores sociales a priorizar intereses comerciales."
+  - "Sustituir la normativa estatal en caso de conflicto."
+  - "Eliminar la necesidad de formación continua en la profesión."
+
+- pregunta: "¿De qué manera los principios ancestrales (por ejemplo Ama llulla, Ama qhilla, Ama suwa) orientan la práctica ética contemporánea?"
+  probabilidad: 90
+  respuesta_correcta: "Proveen mandatos éticos culturales que refuerzan valores como verdad, diligencia y honestidad integrables en la práctica profesional moderna."
+  respuestas_incorrectas:
+
+  - "Son meros lemas sin aplicación práctica en el ejercicio profesional."
+  - "Contradicen necesariamente los principios de derechos humanos."
+  - "Solo aplican en contextos rurales y no en servicios públicos."
+
+- pregunta: "¿Qué significa profesionalmente 'Ama llulla'?"
+  probabilidad: 90
+  respuesta_correcta: "No ser mentiroso: transparencia y veracidad en el desempeño profesional."
+  respuestas_incorrectas:
+
+  - "Prohibición de expresar emociones en la práctica."
+  - "Evitar cualquier tipo de participación comunitaria."
+  - "Priorizar la eficiencia sobre la verdad."
+
+- pregunta: "Mencione tres derechos centrales del trabajador social (seleccione la opción verdadera en enunciado de respuesta correcta)."
+  probabilidad: 89
+  respuesta_correcta: "Defensa profesional, participación en formulación de políticas sociales y acceso a capacitación."
+  respuestas_incorrectas:
+
+  - "Inmunidad frente a sanciones, libertad para divulgar expedientes y pago diferido."
+  - "Exclusividad legal para dictar normas sanitarias, control de nómina, y veto a supervisores."
+  - "Derecho a no rendir cuentas, asignación automática de plazas y privilegios administrativos."
+
+- pregunta: "¿A qué categoría pertenecen los deberes clasificados como 'Con las personas usuarias' en los artículos citados?"
+  probabilidad: 88
+  respuesta_correcta: "Art. 36 (categoría II: Con las personas usuarias)."
+  respuestas_incorrectas:
+
+  - "Art. 33–35 (con el gremio)."
+  - "Art. 37 (con la institución)."
+  - "Art. 38 (con otros profesionales)."
+
+- pregunta: "¿Cuál es una obligación ética concreta con la institución según los apuntes?"
+  probabilidad: 88
+  respuesta_correcta: "Denunciar si la institución vulnera derechos, no proporciona condiciones adecuadas o discrimina."
+  respuestas_incorrectas:
+
+  - "Ocultar irregularidades para mantener la reputación institucional."
+  - "Priorizar órdenes administrativas por encima de leyes y derechos."
+  - "Entregar documentación de usuarios para fines publicitarios sin consentimiento."
+
+- pregunta: "¿Cuál es una acción claramente contraria a la ética profesional (Art. 39)?"
+  probabilidad: 88
+  respuesta_correcta: "Difamar o calumniar a colegas o usuarios."
+  respuestas_incorrectas:
+
+  - "Denunciar públicamente violaciones de derechos."
+  - "Promover transparencia institucional."
+  - "Informar a autoridades competentes sobre irregularidades."
+
+- pregunta: "¿Qué consecuencias profesionales puede tener la violación del secreto profesional?"
+  probabilidad: 87
+  respuesta_correcta: "Someterse a comisiones de ética, posibles sanciones y pérdida de credibilidad profesional."
+  respuestas_incorrectas:
+
+  - "Recompensa institucional por transparencia pública."
+  - "Promoción inmediata por eficiencia administrativa."
+  - "Exención de responsabilidades legales."
+
+- pregunta: "¿Qué implica el principio de no discriminación en la práctica del Trabajo Social?"
+  probabilidad: 86
+  respuesta_correcta: "Tratar a las personas con igualdad, respeto y sin prejuicios, garantizando acceso equitativo a servicios."
+  respuestas_incorrectas:
+
+  - "Priorizar a ciertos grupos por afinidad institucional."
+  - "Aplicar medidas discriminatorias por eficiencia."
+  - "Exigir homogeneidad cultural como requisito de atención."
+
+- pregunta: "¿Qué entiende por enfoque holístico en el trato a las personas usuarias?"
+  probabilidad: 85
+  respuesta_correcta: "Considerar a la persona en sus dimensiones físicas, sociales, emocionales y contextuales para una intervención integral."
+  respuestas_incorrectas:
+
+  - "Atender solo el síntoma visible sin contexto."
+  - "Sustituir la intervención social por medidas administrativas."
+  - "Segregar disciplinas y evitar abordajes interdisciplinarios."
+
+- pregunta: "¿Qué significa, en términos éticos, la autonomía profesional y su relación con la práctica del TS?"
+  probabilidad: 85
+  respuesta_correcta: "Capacidad del profesional para tomar decisiones técnicas dentro de marcos normativos y deontológicos, respetando derechos de usuarios."
+  respuestas_incorrectas:
+
+  - "Libertad para actuar sin rendir cuentas ni supervisión."
+  - "Poder absoluto sobre decisiones administrativas sin considerar usuarios."
+  - "Exención de responsabilidad legal."
+
+- pregunta: "¿Cuál es la función de los tribunales de ética profesional?"
+  probabilidad: 84
+  respuesta_correcta: "Investigar faltas, aplicar procedimientos disciplinarios y garantizar cumplimiento del Código de Ética."
+  respuestas_incorrectas:
+
+  - "Gestionar exclusivamente ascensos y remuneraciones."
+  - "Actuar como órgano legislativo nacional."
+  - "Sancionar por motivos políticos sin proceso."
+
+- pregunta: "Explique la relación ética–moral–bien común en el ejercicio del Trabajo Social."
+  probabilidad: 80
+  respuesta_correcta: "La ética reflexiona sobre la moral para orientar acciones que promuevan el bien común, entendiendo lo justo como beneficio colectivo y dignidad humana."
+  respuestas_incorrectas:
+
+  - "La moral sustituye a la ética cuando hay crisis institucional."
+  - "El bien común siempre coincide con las decisiones administrativas."
+  - "La ética solo rige la conducta individual y no la política social."
+
+- pregunta: "Analice la crisis de valores éticos en la modernidad y su impacto en el Trabajo Social."
+  probabilidad: 78
+  respuesta_correcta: "Los cambios socioeconómicos plantean tensiones entre valores tradicionales y criterios técnicos, generando dilemas sobre autonomía, derechos y límites legales."
+  respuestas_incorrectas:
+
+  - "La modernidad elimina cualquier conflicto ético al imponer normas científicas."
+  - "Los valores tradicionales son siempre superiores y no deben cuestionarse."
+  - "La crisis de valores solo afecta a la administración y no al profesional."
+
+- pregunta: "¿Por qué temas como la eutanasia o el aborto generan conflictos éticos para el trabajador social?"
+  probabilidad: 78
+  respuesta_correcta: "Porque combinan dimensiones jurídicas, morales, culturales y de derechos individuales que requieren reflexión ética y actualización normativa."
+  respuestas_incorrectas:
+
+  - "Porque son exclusivamente asuntos médicos sin implicación social."
+  - "Porque siempre deben rechazarse por norma profesional."
+  - "Porque son temas puramente personales que el TS no debe abordar."
+
+- pregunta: "Según Salcedo Megales, ¿por qué el bien público se rige por autonomía del cliente y bienestar social?"
+  probabilidad: 77
+  respuesta_correcta: "Porque la protección de la persona exige respetar su autonomía mientras se busca el bienestar colectivo mediante políticas y servicios inclusivos."
+  respuestas_incorrectas:
+
+  - "Porque la rentabilidad institucional define el bien público."
+  - "Porque la neutralidad profesional es la base del bien público."
+  - "Porque el control social garantiza bienestar."
+
+- pregunta: "¿Cómo se integra el uso ético de la tecnología y redes sociales en el ejercicio profesional?"
+  probabilidad: 75
+  respuesta_correcta: "Usándolas protegiendo datos sensibles, evitando difusión no autorizada y respetando la privacidad y dignidad de las personas usuarias."
+  respuestas_incorrectas:
+
+  - "Compartiendo expedientes para mayor transparencia sin consentimiento."
+  - "Prohibiendo totalmente su uso para evitar riesgos."
+  - "Usándolas libremente para difusión institucional sin criterios éticos."
+
+- pregunta: "Explique el rol del trabajador social como agente de cambio en la sociedad boliviana."
+  probabilidad: 75
+  respuesta_correcta: "Impulsar el acceso a derechos, acompañar procesos de empoderamiento y participar en formulación de políticas públicas con perspectiva social."
+  respuestas_incorrectas:
+
+  - "Actuar exclusivamente como gestor administrativo sin incidencia política."
+  - "Reemplazar funciones de otras disciplinas profesionales."
+  - "Operar únicamente en servicios privados sin vinculación comunitaria."
+
+- pregunta: "¿Por qué la dignidad humana se mantiene como valor central del Trabajo Social?"
+  probabilidad: 74
+  respuesta_correcta: "Porque es la base normativa de los derechos humanos y orienta la defensa y promoción de condiciones que permitan el desarrollo integral de las personas."
+  respuestas_incorrectas:
+
+  - "Porque favorece únicamente la autonomía institucional."
+  - "Porque limita la intervención técnica a criterios administrativos."
+  - "Porque solo aplica en contextos religiosos."
+
+- pregunta: "¿Cuál es la importancia de la investigación previa a la intervención social?"
+  probabilidad: 73
+  respuesta_correcta: "Permite conocer la realidad, fundamentar decisiones, diseñar intervenciones ajustadas al contexto y evitar intervenciones arbitrarias o ineficaces."
+  respuestas_incorrectas:
+
+  - "No es necesaria; la acción inmediata siempre es preferible."
+  - "Solo sirve para justificar demoras administrativas."
+  - "Reemplaza la necesidad de evaluación continua durante la intervención."
+
+- pregunta: "¿Qué significa 'implicación emocional controlada' como competencia profesional?"
+  probabilidad: 72
+  respuesta_correcta: "Acompañar con empatía y compromiso sin perder la distancia técnica necesaria para evaluar y decidir objetivamente."
+  respuestas_incorrectas:
+
+  - "Mantenerse siempre emocionalmente distante y frío."
+  - "Permitir que las emociones guíen todas las decisiones."
+  - "Delegar la gestión emocional a terceros."
+
+- pregunta: "Defina deontología y su relación con la praxis profesional."
+  probabilidad: 68
+  respuesta_correcta: "Conjunto de normas y obligaciones que orientan el deber ser profesional; vincula principios éticos con obligaciones prácticas y sanciones disciplinarias."
+  respuestas_incorrectas:
+
+  - "Reglas administrativas sin contenido moral."
+  - "Conjunto de recomendaciones opcionales sin efectos disciplinarios."
+  - "Un corpus teórico sin relación con la práctica cotidiana."
+
+- pregunta: "¿Qué implica la individualización en la intervención social?"
+  probabilidad: 67
+  respuesta_correcta: "Adaptar estrategias y recursos a las características singulares de cada persona o caso, evitando soluciones homogéneas inapropiadas."
+  respuestas_incorrectas:
+
+  - "Aplicar el mismo protocolo estándar a todos los usuarios."
+  - "Evitar la intervención personalizada para ahorrar recursos."
+  - "Sustituir evaluación por supuestos generales."
+
+- pregunta: "La actitud 'no enjuiciadora' se traduce profesionalmente como:"
+  probabilidad: 66
+  respuesta_correcta: "Suspensión del prejuicio y abordaje respetuoso, sin etiquetar ni estigmatizar al usuario."
+  respuestas_incorrectas:
+
+  - "Indiferencia total ante el caso."
+  - "Falta de compromiso profesional."
+  - "Neutralidad emocional absoluta que evita intervención."
+
+- pregunta: "¿Cuál es el deber ético del trabajador social frente a la desinformación?"
+  probabilidad: 65
+  respuesta_correcta: "Combatir la desinformación, no difundir noticias falsas y promover información veraz y contextualizada para proteger derechos."
+  respuestas_incorrectas:
+
+  - "Difundir informaciones que favorezcan objetivos institucionales aunque sean dudosas."
+  - "Ignorar la desinformación por considerarla asunto político."
+  - "Promover rumores para movilizar opinión pública."
+
+- pregunta: "¿Por qué es relevante el correcto actuar moral en entornos digitales?"
+  probabilidad: 64
+  respuesta_correcta: "Porque las acciones en línea tienen efectos reales sobre dignidad, privacidad y pueden vulnerar derechos; el profesional debe mantener estándares éticos en plataformas digitales."
+  respuestas_incorrectas:
+
+  - "Porque lo digital no afecta la ética real."
+  - "Porque la singularidad del medio libera al profesional de normas."
+  - "Porque la anonimidad legitima cualquier acción."
+
+- pregunta: "¿Cómo identifica el trabajador social situaciones de vulnerabilidad extrema en contextos institucionales?"
+  probabilidad: 63
+  respuesta_correcta: "Mediante evaluaciones socioeconómicas, entrevistas y análisis del contexto que permitan justificar medidas excepcionales como exenciones o ayudas."
+  respuestas_incorrectas:
+
+  - "Por intuición sin recolección de datos."
+  - "Solo si la institución lo solicita explícitamente."
+  - "Basándose en estereotipos sociales para agilizar el proceso."
+
+- pregunta: "¿Por qué la presencia del trabajador social es considerada indispensable en procesos judiciales que involucran derechos sociales?"
+  probabilidad: 62
+  respuesta_correcta: "Porque aporta peritajes, contexto social y evaluación integral necesarias para decisiones justas en temas como alimentos, tutela o medidas de protección."
+  respuestas_incorrectas:
+
+  - "Porque sustituye la función del tribunal."
+  - "Porque sirve solo como testigo sin análisis técnico."
+  - "Porque su presencia es administrativa y no técnica."
+
+- pregunta: "Explique la tensión ética entre autonomía del usuario y normativas institucionales."
+  probabilidad: 60
+  respuesta_correcta: "Surge cuando políticas o protocolos restringen decisiones personales; el profesional debe balancear respeto a la autonomía con cumplimiento legal y cuidado del bien común."
+  respuestas_incorrectas:
+
+  - "La autonomía siempre cede ante la normativa institucional sin discusión."
+  - "Las instituciones nunca generan conflictos con la autonomía del usuario."
+  - "La autonomía se puede obviar si hay conveniencia administrativa."
+
+- pregunta: "Analice la distinción entre valores tradicionales y modernos y su implicancia en la práctica profesional."
+  probabilidad: 54
+  respuesta_correcta: "Los valores evolucionan históricamente; la práctica profesional debe reconocer tradiciones culturales sin renunciar a principios universales de derechos."
+  respuestas_incorrectas:
+
+  - "Los valores tradicionales son obsoletos y deben ser rechazados sin análisis."
+  - "Los valores modernos anulan por completo la identidad cultural local."
+  - "No existe interacción entre tradición y modernidad en la praxis."
+
+- pregunta: "¿Qué entiende por calidad de los servicios en el marco de los principios éticos?"
+  probabilidad: 46
+  respuesta_correcta: "Prestaciones técnicamente adecuadas, respetuosas, equitativas y orientadas al desarrollo integral del usuario."
+  respuestas_incorrectas:
+
+  - "Solo la cantidad de atenciones prestadas por la institución."
+  - "Prioridad única a indicadores financieros."
+  - "Servicios exclusivos para grupos privilegiados."
+
+- pregunta: "Explique el papel de la participación del trabajador social en la formulación de políticas públicas."
+  probabilidad: 50
+  respuesta_correcta: "Contribuir con evidencia técnica y perspectiva de derechos para diseñar políticas que garanticen inclusión y acceso a servicios."
+  respuestas_incorrectas:
+
+  - "Dictar políticas sin diálogo intersectorial."
+  - "Sustituir funciones legislativas sin mandato."
+  - "Ocuparse solo de la implementación sin aportar insumos técnicos."
+
+- pregunta: "¿Por qué la planificación y el desarrollo social están entre las funciones del Trabajo Social?"
+  probabilidad: 52
+  respuesta_correcta: "Porque permiten diseñar programas y servicios orientados al bienestar colectivo y la reducción de desigualdades desde una perspectiva técnica y ética."
+  respuestas_incorrectas:
+
+  - "Porque el trabajo social solo debe ocuparse de atención individual."
+  - "Porque la planificación es responsabilidad exclusiva de economistas."
+  - "Porque sirve únicamente para justificar presupuestos."
+
+- pregunta: "¿Qué significa 'inviolabilidad del espacio de trabajo, archivos y documentación' como derecho del trabajador social?"
+  probabilidad: 59
+  respuesta_correcta: "Protección legal de expedientes y materiales profesionales frente a acceso indebido para garantizar confidencialidad y seguridad."
+  respuestas_incorrectas:
+
+  - "Permitir que cualquier área institucional acceda sin controles."
+  - "Eliminar la documentación por conveniencia administrativa."
+  - "Compartir documentos públicamente para mayor transparencia sin criterios."
+
+- pregunta: "¿Qué importancia tiene la capacitación continua para el trabajador social?"
+  probabilidad: 59
+  respuesta_correcta: "Es un derecho y una necesidad para actualizar conocimientos, metodologías y responder adecuadamente a nuevos desafíos sociales."
+  respuestas_incorrectas:
+
+  - "No es necesaria después de la titulación."
+  - "Es exclusiva para cargos directivos."
+  - "Se limita a actividades recreativas sin impacto profesional."
+
+- pregunta: "Explique por qué los actos corruptos afectan la credibilidad del Trabajo Social."
+  probabilidad: 58
+  respuesta_correcta: "Minan la confianza pública, vulneran derechos de usuarios y comprometen la legitimidad ética y técnica de la profesión."
+  respuestas_incorrectas:
+
+  - "No tienen impacto si la institución los tolera."
+  - "Mejoran la eficiencia administrativa a costa de la ética."
+  - "Solo afectan al individuo y no a la profesión."
+
+- pregunta: "Analice la función del trabajador social en procesos de exención de pagos por vulnerabilidad extrema."
+  probabilidad: 53
+  respuesta_correcta: "Evaluar circunstancialmente el grado de pobreza y documentar condiciones que justifiquen medidas de protección o exención para garantizar acceso a servicios."
+  respuestas_incorrectas:
+
+  - "Conceder exenciones sin evaluación objetiva."
+  - "Negar exenciones por criterios administrativos rígidos."
+  - "Delegar la evaluación a personal no técnico."
+
+- pregunta: "Describa la relación entre ética profesional y políticas institucionales conflictivas."
+  probabilidad: 41
+  respuesta_correcta: "La ética puede obligar al profesional a denunciar prácticas institucionales contrarias al bien común o a los derechos, pese a presiones internas."
+  respuestas_incorrectas:
+
+  - "La ética siempre respalda las políticas institucionales sin cuestionarlas."
+  - "No existe conflicto posible entre ética e institución."
+  - "La ética profesional es irrelevante frente a decisiones administrativas."
+
+- pregunta: "Explique la dimensión espiritual y su vínculo con la intervención consciente en Trabajo Social."
+  probabilidad: 49
+  respuesta_correcta: "Reconocer la conexión con lo natural o creencias superiores puede enriquecer la comprensión del bienestar y orientar intervenciones respetuosas del sentido personal y comunitario."
+  respuestas_incorrectas:
+
+  - "La espiritualidad invalida la intervención técnica."
+  - "Debe imponerse una doctrina espiritual en las prácticas."
+  - "Es un factor irrelevante en contextos urbanos."
+
+- pregunta: "¿Qué papel juega la aceptación libre por parte del cliente en la intervención profesional?"
+  probabilidad: 47
+  respuesta_correcta: "Es un principio básico: la intervención ética requiere consentimiento informado y respeto por la voluntad del usuario."
+  respuestas_incorrectas:
+
+  - "El consentimiento no es necesario si hay urgencia institucional."
+  - "Se puede suplantar la voluntad del cliente por el interés institucional."
+  - "La aceptación se asume por defecto sin procedimientos."
+
+- pregunta: "¿Cuál es la función de la cooperación profesional en equipos interdisciplinarios?"
+  probabilidad: 45
+  respuesta_correcta: "Trabajar en igualdad de condiciones, respetando contribuciones disciplinares y facilitando continuidad en procesos de atención."
+  respuestas_incorrectas:
+
+  - "Imponer la visión del trabajador social sobre otras disciplinas."
+  - "Excluir a profesionales de áreas complementarias."
+  - "Aislar la intervención social de aportes técnicos."
+
+- pregunta: "Explique por qué la burocratización puede entorpecer la relación con las personas usuarias."
+  probabilidad: 53
+  respuesta_correcta: "La burocratización puede generar trámites innecesarios, dilatar accesos y alejar la intervención del enfoque centrado en derechos y bienestar."
+  respuestas_incorrectas:
+
+  - "Siempre agiliza el acceso a derechos."
+  - "No tiene impacto en la calidad del servicio."
+  - "Mejora necesariamente la empatía profesional."
+
+- pregunta: "¿Por qué la percepción histórica de los valores debe considerarse en la praxis del Trabajo Social?"
+  probabilidad: 54
+  respuesta_correcta: "Porque los valores cambian y su significado social condiciona prácticas; el profesional debe adaptar enfoques sin desconocer raíces culturales."
+  respuestas_incorrectas:
+
+  - "Porque los valores históricos deben reemplazarse sin evaluación."
+  - "Porque no influyen en intervenciones técnicas."
+  - "Porque solo importan valores modernos importados."
