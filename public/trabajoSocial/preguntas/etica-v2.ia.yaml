@@ -1,0 +1,398 @@
+- pregunta: "¿Cuál es el significado etimológico de la palabra 'ética' según el módulo?"
+  probabilidad: 0.88
+  respuesta_correcta: 'Proviene del griego ethos y significa carácter o comportamiento.'
+  respuestas_incorrectas:
+    - "Proviene del latín 'ethicus' y significa ley."
+    - 'Es un acrónimo moderno de normas sociales.'
+    - "Proviene del griego 'logos' y significa razón."
+
+- pregunta: 'Según las diapositivas, ¿qué diferencia fundamental existe entre moral y ética?'
+  probabilidad: 0.92
+  respuesta_correcta: 'La moral es el conjunto de normas prácticas; la ética es la reflexión teórica sobre esa moral.'
+  respuestas_incorrectas:
+    - 'La moral es universal y la ética es local.'
+    - 'La ética dicta obligaciones; la moral solo sentimientos.'
+    - 'No existe diferencia; ambos términos son sinónimos.'
+
+- pregunta: '¿Cuál es uno de los ejes fundamentales que sustenta la ética en Trabajo Social?'
+  probabilidad: 0.93
+  respuesta_correcta: 'Los Derechos Humanos como fundamento para la dignidad y justicia.'
+  respuestas_incorrectas:
+    - 'La total neutralidad política del profesional.'
+    - 'La maximización de beneficios institucionales.'
+    - 'La omisión de principios de justicia.'
+
+- pregunta: 'Según el material, ¿qué implica el compromiso ético del trabajador/a social?'
+  probabilidad: 0.89
+  respuesta_correcta: 'Acción y no neutralidad: protección de derechos y denuncia de violaciones.'
+  respuestas_incorrectas:
+    - 'Mantenerse siempre neutral y no intervenir en conflictos.'
+    - 'Priorizar las instrucciones institucionales sobre los derechos.'
+    - 'Actuar únicamente según conveniencia política.'
+
+- pregunta: '¿Cuál de los siguientes NO forma parte de los 9 principios del Código de Ética (según las diapositivas)?'
+  probabilidad: 0.76
+  respuesta_correcta: 'Competitividad individual.'
+  respuestas_incorrectas:
+    - 'Autodeterminación.'
+    - 'Justicia social.'
+    - 'Calidad de los servicios.'
+
+- pregunta: '¿Cuál es el orden jerárquico del marco jurídico al que debe sujetarse el trabajador social?'
+  probabilidad: 0.85
+  respuesta_correcta: 'Constitución Política del Estado → Declaraciones y tratados internacionales → Leyes y reglamentos.'
+  respuestas_incorrectas:
+    - 'Leyes locales → Constitución → Tratados internacionales.'
+    - 'Reglamentos institucionales → Constitución → Tratados.'
+    - 'Tratados internacionales → Reglamentos → Constitución.'
+
+- pregunta: "Según las clases, ¿qué significa 'objeto' en el contexto del Trabajo Social ético?"
+  probabilidad: 0.80
+  respuesta_correcta: 'La situación o cuestión social (necesidad + recurso + contradicción).'
+  respuestas_incorrectas:
+    - 'La persona como entidad clínica para tratar.'
+    - 'El expediente administrativo sin contexto.'
+    - 'Un concepto meramente estadístico.'
+
+- pregunta: '¿Cuál de estos deberes figura explícitamente en los artículos sobre deberes con las personas usuarias?'
+  probabilidad: 0.88
+  respuesta_correcta: 'Guardar estricta reserva y confidencialidad.'
+  respuestas_incorrectas:
+    - 'Pública difusión de datos sin autorización.'
+    - 'Priorizar intereses personales sobre usuarios.'
+    - 'Imponer medidas disciplinarias sin proceso.'
+
+- pregunta: "Las máximas ancestrales 'ama llulla, ama qhilla, ama suwa' en el módulo se asocian con:"
+  probabilidad: 0.84
+  respuesta_correcta: 'Principios ético-morales que orientan la conducta profesional (veracidad, diligencia, honestidad).'
+  respuestas_incorrectas:
+    - 'Normas legales internacionales obligatorias.'
+    - 'Un código técnico de intervención únicamente.'
+    - 'Frases meramente decorativas sin valor normativo.'
+
+- pregunta: 'Según el contenido, ¿qué papel tiene la investigación en la intervención profesional?'
+  probabilidad: 0.86
+  respuesta_correcta: 'Es metodología fundamental; no se debe intervenir sin investigación previa.'
+  respuestas_incorrectas:
+    - 'Es opcional y solo para publicaciones académicas.'
+    - 'Se reemplaza con intuición profesional.'
+    - 'Solo sirve para justificar financiamiento.'
+
+- pregunta: "¿Qué aspecto del ejercicio profesional resalta la dimensión 'SER' en las diapositivas?"
+  probabilidad: 0.75
+  respuesta_correcta: 'La identidad ética y moral del trabajador/a social como persona profesional.'
+  respuestas_incorrectas:
+    - 'Solo la capacitación técnica sin valores.'
+    - 'La gestión administrativa exclusiva.'
+    - 'La obligatoriedad de alinearse con intereses políticos.'
+
+- pregunta: 'En el código de ética de 2016, ¿qué componente corresponde a las sanciones?'
+  probabilidad: 0.70
+  respuesta_correcta: 'El capítulo que regula las sanciones y el procedimiento por faltas.'
+  respuestas_incorrectas:
+    - 'Un apéndice de recomendaciones no vinculantes.'
+    - 'Sólo una lista de derechos del profesional.'
+    - 'Un anexo sobre metodologías de intervención.'
+
+- pregunta: 'Según las diapositivas, ¿qué debe hacer un trabajador social si detecta que la institución vulnera derechos humanos?'
+  probabilidad: 0.91
+  respuesta_correcta: 'Denunciar y tomar medidas dentro del marco legal y ético.'
+  respuestas_incorrectas:
+    - 'Ignorar para mantener la estabilidad laboral.'
+    - 'Participar activamente en la violación si lo ordenan.'
+    - 'Transferir el caso sin documentarlo.'
+
+- pregunta: '¿Cuál es una de las obligaciones con la institución señaladas en los apuntes?'
+  probabilidad: 0.79
+  respuesta_correcta: 'Conocer la visión y misión institucional y denunciar condiciones que perjudiquen a usuarios.'
+  respuestas_incorrectas:
+    - 'Ocultar prácticas incorrectas para proteger la imagen institucional.'
+    - 'Priorizar beneficios personales sobre la misión.'
+    - 'Aplicar sanciones sin seguimiento.'
+
+- pregunta: "De acuerdo al módulo, ¿qué significa 'autodeterminación' en la práctica profesional?"
+  probabilidad: 0.90
+  respuesta_correcta: 'Respeto a la capacidad de decisión del sujeto y su participación en procesos que le afectan.'
+  respuestas_incorrectas:
+    - 'Que el profesional delega todas las decisiones al usuario sin guía.'
+    - 'Que la institución impone decisiones por seguridad.'
+    - 'Que el Estado decide en nombre del sujeto.'
+
+- pregunta: '¿Qué principio tradicional boliviano se asocia con la diligencia, puntualidad y no desperdicio del tiempo?'
+  probabilidad: 0.76
+  respuesta_correcta: 'Ama qhilla (actuar con diligencia y no ser flojo).'
+  respuestas_incorrectas:
+    - 'Ama suwa.'
+    - 'Ama llulla.'
+    - 'Qhapaj ñan.'
+
+- pregunta: 'Según los apuntes, ¿qué dimensión debe integrar el trabajador social además de la técnica?'
+  probabilidad: 0.82
+  respuesta_correcta: 'La espiritualidad y el vínculo con el entorno natural y social (intervención consciente).'
+  respuestas_incorrectas:
+    - 'Solo la gestión financiera.'
+    - 'El aislamiento profesional.'
+    - 'La eliminación de valores culturales.'
+
+- pregunta: 'En situaciones de riesgo (por ejemplo, ciberacoso), ¿qué actitud ética se exige al profesional?'
+  probabilidad: 0.85
+  respuesta_correcta: 'No difundir información falsa y proteger a las víctimas dentro de marcos legales.'
+  respuestas_incorrectas:
+    - 'Publicar acusaciones sin verificación.'
+    - 'Ignorar por ser ámbito digital.'
+    - 'Participar en actos de revictimización.'
+
+- pregunta: '¿Cuál es una acción contraria a la ética profesional según el régimen disciplinario (Art. 39)?'
+  probabilidad: 0.87
+  respuesta_correcta: 'Difamar o calumniar a colegas o usuarios.'
+  respuestas_incorrectas:
+    - 'Promover la participación comunitaria.'
+    - 'Guardar estricta confidencialidad.'
+    - 'Denunciar violaciones a los derechos humanos.'
+
+- pregunta: '¿Qué debe priorizar el trabajador social en la atención de personas vulnerables, según las clases?'
+  probabilidad: 0.92
+  respuesta_correcta: 'La dignidad, el bienestar integral y el acceso efectivo a derechos.'
+  respuestas_incorrectas:
+    - 'La eficiencia administrativa por encima de la dignidad.'
+    - 'La protección de la imagen institucional a cualquier costo.'
+    - 'La aplicación de medidas punitivas sin apoyo.'
+
+- pregunta: 'Respecto a la confidencialidad, las diapositivas indican que la información del usuario es:'
+  probabilidad: 0.94
+  respuesta_correcta: 'Reservada y solo usada para fines de intervención profesional.'
+  respuestas_incorrectas:
+    - 'Libremente distribuible en equipos interinstitucionales sin control.'
+    - 'Pública si beneficia a la institución.'
+    - 'Compartida en redes sociales para transparencia.'
+
+- pregunta: "Según las lecturas, ¿qué implica la 'actitud no enjuiciadora'?"
+  probabilidad: 0.83
+  respuesta_correcta: 'Evitar prejuicios y estereotipos que obstaculicen la ayuda efectiva al sujeto.'
+  respuestas_incorrectas:
+    - 'Aprobar cualquier conducta sin límites éticos.'
+    - 'Ignorar riesgos por no juzgar.'
+    - 'Sustituir la intervención por neutralidad absoluta.'
+
+- pregunta: '¿Qué enfoque ético critica la adaptación pasiva del individuo al sistema y propone transformación social?'
+  probabilidad: 0.78
+  respuesta_correcta: 'Prácticas educativas transformadoras y corrientes reconceptualizadoras.'
+  respuestas_incorrectas:
+    - 'Enfoque técnico de Richmond exclusivamente.'
+    - 'Un utilitarismo institucional.'
+    - 'La neutralidad burocrática.'
+
+- pregunta: 'En el contexto boliviano, ¿qué documento regula específicamente la deontología profesional del trabajador social (según las diapositivas)?'
+  probabilidad: 0.80
+  respuesta_correcta: 'El Código de Ética profesional elaborado por la Comisión Nacional de Ética (2016).'
+  respuestas_incorrectas:
+    - 'Una directiva internacional sin adaptación local.'
+    - 'Una ley municipal no vinculante.'
+    - 'Un reglamento universitario privado.'
+
+- pregunta: '¿Cuál es una de las funciones del trabajador social en el ámbito judicial según el módulo?'
+  probabilidad: 0.81
+  respuesta_correcta: 'Realizar peritajes sociales y acompañamiento técnico a procesos judiciales.'
+  respuestas_incorrectas:
+    - 'Imponer sentencias legales.'
+    - 'Prescribir tratamiento médico.'
+    - 'Representar legalmente a las partes como abogado.'
+
+- pregunta: 'Según el material, ¿qué es imprescindible para garantizar intervenciones técnicas y humanas?'
+  probabilidad: 0.84
+  respuesta_correcta: 'Integrar valores, teorías y prácticas con metodología y principios éticos.'
+  respuestas_incorrectas:
+    - 'Sustituir valores por procedimiento técnico.'
+    - 'Actuar solo con intuición profesional.'
+    - 'Priorizar la burocracia sobre la ética.'
+
+- pregunta: 'En el régimen de deberes con otros profesionales, ¿qué actitud es requerida?'
+  probabilidad: 0.77
+  respuesta_correcta: 'Participar en igualdad de condiciones y respetar la naturaleza de otras disciplinas.'
+  respuestas_incorrectas:
+    - 'Imponer criterios del trabajador social por sobre otros.'
+    - 'Ocultar información relevante para continuidad.'
+    - 'Sustituir profesionales por recomendación.'
+
+- pregunta: '¿Qué riesgo ético aparece con la creciente institucionalización y tecnificación del trabajo social?'
+  probabilidad: 0.74
+  respuesta_correcta: 'Que se reduzca la autonomía del sujeto y se priorice la burocracia sobre la dignidad.'
+  respuestas_incorrectas:
+    - 'Que desaparezcan totalmente los recursos disponibles.'
+    - 'Que aumente automáticamente la participación comunitaria.'
+    - 'Que se eliminen las normas éticas por completo.'
+
+- pregunta: 'Según las clases, ¿qué debe hacer el profesional frente a dilemas como eutanasia o aborto?'
+  probabilidad: 0.69
+  respuesta_correcta: 'Reflexionar éticamente, respetar marcos jurídicos y la autodeterminación del sujeto dentro del marco profesional.'
+  respuestas_incorrectas:
+    - 'Actuar sin consultar la ley ni al usuario.'
+    - 'Imponer la visión personal del profesional.'
+    - 'Evitar cualquier reflexión ética por complejidad.'
+
+- pregunta: '¿Qué principio del Código de Ética guarda relación directa con la calidad de atención?'
+  probabilidad: 0.73
+  respuesta_correcta: 'Calidad de los servicios.'
+  respuestas_incorrectas:
+    - 'Competitividad profesional.'
+    - 'Subordinación institucional.'
+    - 'Centralización del poder.'
+
+- pregunta: 'En el análisis de vulnerabilidad (caso hospitalario), ¿qué rol cumplía el trabajador social?'
+  probabilidad: 0.82
+  respuesta_correcta: 'Evaluar la situación socioeconómica para determinar exenciones y garantizar acceso a salud.'
+  respuestas_incorrectas:
+    - 'Cobrar tarifas por servicios sociales.'
+    - 'Negar atención según criterio personal.'
+    - 'Delegar la evaluación a personal no técnico.'
+
+- pregunta: '¿Cuál de las siguientes es una acción contraria al código deontológico presentada en los apuntes?'
+  probabilidad: 0.86
+  respuesta_correcta: 'Anteponer intereses personales en la atención profesional.'
+  respuestas_incorrectas:
+    - 'Denunciar violaciones de derechos humanos.'
+    - 'Cumplir la misión institucional.'
+    - 'Brindar información para la continuidad del caso.'
+
+- pregunta: "Según el módulo, ¿qué debe entenderse por 'bien público' en el trabajo social?"
+  probabilidad: 0.79
+  respuesta_correcta: 'El conjunto de valores que promueven el bienestar social y la justicia colectiva.'
+  respuestas_incorrectas:
+    - 'El beneficio económico de una institución.'
+    - 'La protección de intereses particulares.'
+    - 'La limitación del acceso a servicios.'
+
+- pregunta: "Entre las competencias señaladas en las clases, ¿qué elemento corresponde a 'HACER'?"
+  probabilidad: 0.75
+  respuesta_correcta: 'La intervención social y las prácticas concretas con usuarios y comunidades.'
+  respuestas_incorrectas:
+    - 'La teoría sin aplicación.'
+    - 'La reflexión filosófica exclusiva.'
+    - 'La documentación administrativa sin contacto.'
+
+- pregunta: '¿Qué postura respecto a la desinformación adoptan las clases?'
+  probabilidad: 0.88
+  respuesta_correcta: 'El profesional debe luchar contra la desinformación y no difundir noticias falsas.'
+  respuestas_incorrectas:
+    - 'No es responsabilidad profesional controlar la información.'
+    - 'La desinformación es útil para movilizar recursos.'
+    - 'Difundir rumores puede ser ético si favorece la acción.'
+
+- pregunta: 'Según el contenido, ¿qué aspecto debe controlar el trabajador social en su implicación emocional?'
+  probabilidad: 0.81
+  respuesta_correcta: 'Mantener implicación emocional controlada para combinar empatía con objetividad.'
+  respuestas_incorrectas:
+    - 'Evitar cualquier conexión emocional con el usuario.'
+    - 'Dejar que la emoción guíe todas las decisiones.'
+    - 'Externalizar la responsabilidad emocional al equipo.'
+
+- pregunta: 'En materia de formación profesional, ¿qué derecho aparece en las diapositivas para el trabajador social?'
+  probabilidad: 0.70
+  respuesta_correcta: 'El derecho a la capacitación continua.'
+  respuestas_incorrectas:
+    - 'El derecho a imponer formación a usuarios.'
+    - 'El derecho a cobrar por la participación comunitaria.'
+    - 'El derecho a evadir evaluaciones.'
+
+- pregunta: "¿Qué significa, según el módulo, 'trabajo social como militancia de la justicia social'?"
+  probabilidad: 0.74
+  respuesta_correcta: 'Que el profesional actúa activamente en defensa del acceso a derechos y la equidad.'
+  respuestas_incorrectas:
+    - 'Que el trabajador social debe formar un partido político.'
+    - 'Que su rol es estrictamente administrativo.'
+    - 'Que su única función es reportar estadísticas.'
+
+- pregunta: '¿Cuál es una consecuencia señalada en los apuntes cuando un profesional viola normas éticas?'
+  probabilidad: 0.85
+  respuesta_correcta: 'Ser sometido a comisiones de ética, perder credibilidad y enfrentar sanciones.'
+  respuestas_incorrectas:
+    - 'Ser inmediatamente promovido por la institución.'
+    - 'Recibir apoyo completo del Colegio sin proceso.'
+    - 'No enfrentar ninguna consecuencia por la práctica.'
+
+- pregunta: 'Según las diapositivas, ¿qué debe privilegiar la práctica profesional ante la escasez de recursos?'
+  probabilidad: 0.78
+  respuesta_correcta: 'La equidad y la aplicación justa de recursos en favor del bienestar de los usuarios.'
+  respuestas_incorrectas:
+    - 'El favorecimiento a quienes aportan económicamente.'
+    - 'La discrecionalidad sin criterios éticos.'
+    - 'La reducción de servicios para ahorrar costos.'
+
+- pregunta: 'En el marco deontológico, ¿qué aspecto se destaca respecto a la relación con otros profesionales?'
+  probabilidad: 0.76
+  respuesta_correcta: 'Respetar la naturaleza de otras disciplinas y trabajar en equipos intersectoriales.'
+  respuestas_incorrectas:
+    - 'Imponer criterios de Trabajo Social por sobre los demás.'
+    - 'Actuar de manera aislada sin coordinación.'
+    - 'Ocultar información clave al equipo.'
+
+- pregunta: 'Finalmente, ¿qué objetivo mayor repite el módulo como meta del Trabajo Social ético?'
+  probabilidad: 0.95
+  respuesta_correcta: 'Promover la dignidad humana, la justicia social y el bienestar integral mediante intervenciones técnicas y éticas.'
+  respuestas_incorrectas:
+    - 'Maximizar la rentabilidad institucional.'
+    - 'Uniformizar comportamientos sin considerar contexto.'
+    - 'Privatizar servicios sociales para eficiencia.'
+- pregunta: "¿Qué implica la dimensión del 'DECIDIR' en el ejercicio profesional según las diapositivas?"
+  probabilidad: 0.83
+  respuesta_correcta: 'La capacidad de tomar decisiones basadas en principios ético-jurídicos y el juicio crítico profesional.'
+  respuestas_incorrectas:
+    - 'La facultad de imponer criterios personales sobre el usuario.'
+    - 'Seguir órdenes institucionales sin cuestionamiento alguno.'
+    - 'Delegar la responsabilidad final a otros profesionales del área.'
+
+- pregunta: "Ante la máxima ancestral 'Ama Suwa', ¿cómo se traduce este principio a la ética del Trabajo Social?"
+  probabilidad: 0.89
+  respuesta_correcta: 'No ser ladrón: implica la custodia honesta de bienes públicos y transparencia en la gestión de recursos.'
+  respuestas_incorrectas:
+    - 'No ser mentiroso: referido únicamente a la veracidad del informe.'
+    - 'No ser flojo: referido a la puntualidad en las visitas domiciliarias.'
+    - 'No ser agresivo: referido al trato con los sujetos de intervención.'
+
+- pregunta: 'Según el Código de Ética de 2016, ¿qué derecho tiene el profesional ante situaciones de violencia o inseguridad?'
+  probabilidad: 0.72
+  respuesta_correcta: 'Derecho a contar con garantías de seguridad física y psicológica en el desempeño de sus funciones.'
+  respuestas_incorrectas:
+    - 'Derecho a suspender la atención de forma definitiva sin aviso.'
+    - 'Derecho a delegar casos peligrosos exclusivamente a la policía.'
+    - 'Derecho a portar armas de defensa personal en visitas de riesgo.'
+
+- pregunta: "¿Cuál es el propósito del 'secreto profesional' según la normativa deontológica?"
+  probabilidad: 0.95
+  respuesta_correcta: 'Garantizar la confianza del usuario y proteger su derecho a la intimidad y privacidad.'
+  respuestas_incorrectas:
+    - 'Ocultar errores técnicos del profesional ante la institución.'
+    - 'Evitar que otros colegas colaboren en el mismo caso.'
+    - 'Impedir que la justicia acceda a información en casos de delitos graves.'
+
+- pregunta: 'Dentro de la jerarquía normativa en Bolivia, ¿en qué nivel se ubican los Tratados Internacionales de Derechos Humanos?'
+  probabilidad: 0.88
+  respuesta_correcta: 'Tienen un rango preferente y se integran al bloque de constitucionalidad.'
+  respuestas_incorrectas:
+    - 'Están por debajo de las leyes nacionales ordinarias.'
+    - 'Solo tienen valor referencial o académico.'
+    - 'Son aplicables únicamente si no existen leyes locales.'
+
+- pregunta: "¿Qué caracteriza a una 'ética de la resistencia' en el Trabajo Social contemporáneo?"
+  probabilidad: 0.76
+  respuesta_correcta: 'Cuestionar las lógicas burocráticas que deshumanizan al sujeto y defender la justicia social.'
+  respuestas_incorrectas:
+    - 'Oponerse a cualquier tipo de supervisión institucional.'
+    - 'Rechazar el uso de metodologías científicas en la intervención.'
+    - 'Mantener una postura pasiva ante las políticas de ajuste económico.'
+
+- pregunta: '¿Cómo debe proceder el trabajador social respecto al consentimiento informado?'
+  probabilidad: 0.91
+  respuesta_correcta: 'Explicar claramente los objetivos de la intervención y obtener la aceptación del sujeto antes de iniciar.'
+  respuestas_incorrectas:
+    - 'Intervenir primero y explicar los motivos solo si el usuario pregunta.'
+    - 'Omitir la explicación para no generar ansiedad en el sujeto.'
+    - 'Asumir que el ingreso a una institución implica un consentimiento automático.'
+
+- pregunta: '¿Cuál es la función primordial del Consejo u órgano de ética profesional?'
+  probabilidad: 0.80
+  respuesta_correcta: 'Velar por el cumplimiento del código, conocer denuncias por faltas y aplicar sanciones correspondientes.'
+  respuestas_incorrectas:
+    - 'Asignar puestos de trabajo y salarios a los colegiados.'
+    - 'Redactar leyes nacionales sobre salud y educación.'
+    - 'Defender legalmente al profesional incluso si cometió una falta ética grave.'

@@ -1,7 +1,7 @@
 carreras:
   - id: trabajo-social
     nombre: Trabajo Social
-    advertencia: "⚠️ Algunas baterías de preguntas han sido generadas con Inteligencia Artificial y pueden contener errores o imprecisiones. Se recomienda verificar la información con fuentes académicas oficiales."
+    advertencia: '⚠️ Algunas baterías de preguntas han sido generadas con Inteligencia Artificial y pueden contener errores o imprecisiones. Se recomienda verificar la información con fuentes académicas oficiales.'
     materias:
       - id: comprension
         nombre: Compresión Lectora y Producción Escrita
@@ -43,5 +43,11 @@ carreras:
         nombre: Ética y Relaciones humanas
         archivo: trabajoSocial/preguntas/etica.ia.yaml
         descripcion: Evaluación sobre ética y relaciones humanas
+        generadoPorIA: true
+        privado: false
+      - id: etica-v2
+        nombre: Etica y relaciones humanas
+        archivo: trabajoSocial/preguntas/etica-v2.ia.yaml
+        descripcion: Basado en las preguntas del examen parcial (dificultad, sesgos)
         generadoPorIA: true
         privado: false
