@@ -1,4 +1,12 @@
-import { Component, signal, computed, OnInit, OnDestroy, ChangeDetectionStrategy, inject } from '@angular/core';
+import {
+  Component,
+  signal,
+  computed,
+  OnInit,
+  OnDestroy,
+  ChangeDetectionStrategy,
+  inject,
+} from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { EvaluacionService } from '../services/evaluacion.service';
 import { CardComponent } from '../components/card.component';
@@ -17,12 +25,12 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
         </div>
       } @else {
         <header class="header">
-          <a [routerLink]="['/inicio']" class="btn-volver">
-            ← Volver
-          </a>
+          <a [routerLink]="['/inicio']" class="btn-volver"> ← Volver </a>
           <h1 class="titulo-materia">{{ nombreMateria() }}</h1>
           @if (generadoPorIA()) {
-            <span class="badge-ia" title="Contenido generado con Inteligencia Artificial">🤖 IA</span>
+            <span class="badge-ia" title="Contenido generado con Inteligencia Artificial"
+              >🤖 IA</span
+            >
           }
         </header>
 
@@ -39,15 +47,13 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
               <option [value]="15" [selected]="cantidadPreguntas() === 15">15 preguntas</option>
               <option [value]="25" [selected]="cantidadPreguntas() === 25">25 preguntas</option>
               <option [value]="50" [selected]="cantidadPreguntas() === 50">50 preguntas</option>
-              <option [value]="-1" [selected]="cantidadPreguntas() === -1">Todas las preguntas</option>
+              <option [value]="-1" [selected]="cantidadPreguntas() === -1">
+                Todas las preguntas
+              </option>
             </select>
           </div>
 
-          <button
-            type="button"
-            (click)="generarPreguntasAleatorias()"
-            class="btn-randomizar"
-          >
+          <button type="button" (click)="generarPreguntasAleatorias()" class="btn-randomizar">
             🔀 Randomizar
           </button>
 
@@ -75,11 +81,7 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
                 [disabled]="cronometroIniciado()"
               />
             </div>
-            <button
-              type="button"
-              (click)="toggleCronometro()"
-              class="btn-cronometro"
-            >
+            <button type="button" (click)="toggleCronometro()" class="btn-cronometro">
               {{ cronometroIniciado() ? 'Detener' : 'Iniciar' }}
             </button>
           </div>
@@ -96,19 +98,11 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
           </div>
 
           @if (!evaluacionConcluida()) {
-            <button
-              type="button"
-              (click)="concluirEvaluacion()"
-              class="btn-concluir"
-            >
+            <button type="button" (click)="concluirEvaluacion()" class="btn-concluir">
               ✓ Concluir
             </button>
           } @else {
-            <button
-              type="button"
-              (click)="reiniciar()"
-              class="btn-reintentar-top"
-            >
+            <button type="button" (click)="reiniciar()" class="btn-reintentar-top">
               ↻ Volver a intentar
             </button>
           }
@@ -138,20 +132,18 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
 
         @if (!evaluacionConcluida()) {
           <div class="boton-final-container">
-            <button
-              type="button"
-              (click)="concluirYSubir()"
-              class="btn-concluir-final"
-            >
+            <button type="button" (click)="concluirYSubir()" class="btn-concluir-final">
               ✓ Concluir Evaluación
             </button>
           </div>
         }
 
+        <div class="boton-reload-container">
+          <button type="button" class="btn-reload" (click)="reloadForzado()">:( no carga</button>
+        </div>
+
         @if (mostrarBotonArriba()) {
-          <button type="button" class="btn-arriba" (click)="irArriba()">
-            ↑
-          </button>
+          <button type="button" class="btn-arriba" (click)="irArriba()">↑</button>
         }
       }
     </div>
@@ -247,8 +239,12 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
     }
 
     @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
     }
 
     .controles {
@@ -270,7 +266,8 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
       }
     }
 
-    .control-group, .cronometro-group {
+    .control-group,
+    .cronometro-group {
       display: flex;
       align-items: center;
       gap: 8px;
@@ -278,7 +275,8 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
     }
 
     @media (max-width: 768px) {
-      .control-group, .cronometro-group {
+      .control-group,
+      .cronometro-group {
         flex-direction: column;
         align-items: stretch;
       }
@@ -443,8 +441,15 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
     }
 
     @keyframes pulse {
-      0%, 100% { transform: scale(1); box-shadow: 0 4px 12px rgba(220, 38, 38, 0.2); }
-      50% { transform: scale(1.05); box-shadow: 0 6px 16px rgba(220, 38, 38, 0.3); }
+      0%,
+      100% {
+        transform: scale(1);
+        box-shadow: 0 4px 12px rgba(220, 38, 38, 0.2);
+      }
+      50% {
+        transform: scale(1.05);
+        box-shadow: 0 6px 16px rgba(220, 38, 38, 0.3);
+      }
     }
 
     @media (max-width: 768px) {
@@ -538,13 +543,13 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
       font-size: 14px;
     }
 
-    .checkbox-label input[type="checkbox"] {
+    .checkbox-label input[type='checkbox'] {
       width: 18px;
       height: 18px;
       cursor: pointer;
     }
 
-    .checkbox-label input[type="checkbox"]:disabled {
+    .checkbox-label input[type='checkbox']:disabled {
       cursor: not-allowed;
     }
 
@@ -688,7 +693,40 @@ import { PreguntaConOpciones } from '../models/pregunta.model';
         font-size: 20px;
       }
     }
-  `
+
+    .boton-reload-container {
+      max-width: 800px;
+      margin: 20px auto 40px;
+      padding: 0 20px;
+      text-align: center;
+    }
+
+    .btn-reload {
+      padding: 12px 32px;
+      background: #ef4444;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+      transition: all 0.3s;
+    }
+
+    .btn-reload:hover {
+      background: #dc2626;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(239, 68, 68, 0.4);
+    }
+
+    @media (max-width: 768px) {
+      .btn-reload {
+        padding: 10px 24px;
+        font-size: 13px;
+      }
+    }
+  `,
 })
 export class MateriaView implements OnInit, OnDestroy {
   private readonly route = inject(ActivatedRoute);
@@ -716,7 +754,7 @@ export class MateriaView implements OnInit, OnDestroy {
       return this.evaluacionService.calcularPuntaje(this.preguntasActuales());
     }
     if (!this.verificacionInstantanea()) return 0;
-    const preguntasRespondidas = this.preguntasActuales().filter(p => p.respuestaSeleccionada);
+    const preguntasRespondidas = this.preguntasActuales().filter((p) => p.respuestaSeleccionada);
     if (preguntasRespondidas.length === 0) return 0;
     return this.evaluacionService.calcularPuntaje(preguntasRespondidas);
   });
@@ -781,7 +819,7 @@ export class MateriaView implements OnInit, OnDestroy {
     const cantidadReal = cantidad === -1 ? this.todasLasPreguntas.length : cantidad;
     const preguntas = this.evaluacionService.generarPreguntasAleatorias(
       this.todasLasPreguntas,
-      cantidadReal
+      cantidadReal,
     );
     this.preguntasActuales.set(preguntas);
   }
@@ -811,7 +849,7 @@ export class MateriaView implements OnInit, OnDestroy {
   iniciarCronometro(): void {
     this.cronometroIniciado.set(true);
     this.intervalId = setInterval(() => {
-      this.tiempoRestante.update(t => t - 1);
+      this.tiempoRestante.update((t) => t - 1);
     }, 1000);
   }
 
@@ -824,16 +862,14 @@ export class MateriaView implements OnInit, OnDestroy {
   }
 
   toggleVerificacion(): void {
-    this.verificacionInstantanea.update(v => !v);
+    this.verificacionInstantanea.update((v) => !v);
   }
 
   onRespuestaSeleccionada(event: { pregunta: PreguntaConOpciones; respuesta: string }): void {
-    this.preguntasActuales.update(preguntas =>
-      preguntas.map(p =>
-        p === event.pregunta
-          ? { ...p, respuestaSeleccionada: event.respuesta }
-          : p
-      )
+    this.preguntasActuales.update((preguntas) =>
+      preguntas.map((p) =>
+        p === event.pregunta ? { ...p, respuestaSeleccionada: event.respuesta } : p,
+      ),
     );
   }
 
@@ -858,5 +894,19 @@ export class MateriaView implements OnInit, OnDestroy {
 
   irArriba(): void {
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  reloadForzado(): void {
+    // Limpiar caché del navegador
+    if ('caches' in window) {
+      caches.keys().then((names) => {
+        names.forEach((name) => caches.delete(name));
+      });
+    }
+
+    // Hard reload con timestamp para evitar caché
+    const url = new URL(window.location.href);
+    url.searchParams.set('_t', Date.now().toString());
+    window.location.href = url.toString();
   }
 }
