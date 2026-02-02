@@ -51,3 +51,9 @@ carreras:
         descripcion: Basado en las preguntas del examen parcial (dificultad, sesgos)
         generadoPorIA: true
         privado: false
+      - id: fundamentos-v2
+        nombre: Fundamentos del Trabajo Social
+        archivo: trabajoSocial/preguntas/fundamentos-v2.ia.yaml
+        descripcion: Evaluación sobre fundamentos del trabajo social con los 8 temas
+        generadoPorIA: true
+        privado: false

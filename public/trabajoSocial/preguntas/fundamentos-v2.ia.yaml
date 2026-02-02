@@ -1,0 +1,399 @@
+- pregunta: '¿Cuál es el objeto del Trabajo Social?'
+  probabilidad: 0.92
+  respuesta_correcta: 'La situación o cuestión social que afecta a sujetos concretos.'
+  respuestas_incorrectas:
+    - 'La persona como diagnóstico clínico.'
+    - 'La administración de recursos financieros.'
+    - 'La enseñanza de valores morales.'
+
+- pregunta: '¿Qué autora se asocia principalmente con el método del caso y el diagnóstico social?'
+  probabilidad: 0.91
+  respuesta_correcta: 'Mary Richmond.'
+  respuestas_incorrectas:
+    - 'Jane Addams.'
+    - 'Margarita Rozas.'
+    - 'Carballeda.'
+
+- pregunta: "La denominada 'cuestión social' surge históricamente como consecuencia de:"
+  probabilidad: 0.9
+  respuesta_correcta: 'La industrialización y la urbanización.'
+  respuestas_incorrectas:
+    - 'El feudalismo.'
+    - 'La revolución digital.'
+    - 'Las políticas neoliberales contemporáneas.'
+
+- pregunta: '¿Qué principio ético del Trabajo Social respeta la autonomía del sujeto?'
+  probabilidad: 0.89
+  respuesta_correcta: 'La autodeterminación.'
+  respuestas_incorrectas:
+    - 'La beneficencia.'
+    - 'El secreto profesional.'
+    - 'La neutralidad técnica.'
+
+- pregunta: '¿En qué ámbito actúa el Trabajo Social cuando diseña y evalúa políticas públicas?'
+  probabilidad: 0.9
+  respuesta_correcta: 'En el ámbito institucional.'
+  respuestas_incorrectas:
+    - 'En el ámbito familiar.'
+    - 'En el ámbito grupal.'
+    - 'En el ámbito comunitario.'
+
+- pregunta: '¿Cuál es una técnica fundamental para el diagnóstico social?'
+  probabilidad: 0.88
+  respuesta_correcta: 'La entrevista social.'
+  respuestas_incorrectas:
+    - 'La prescripción médica.'
+    - 'La auditoría financiera.'
+    - 'La observación clínica exclusiva.'
+
+- pregunta: '¿Qué diferencia central existe entre Jane Addams y Mary Richmond?'
+  probabilidad: 0.87
+  respuesta_correcta: 'Addams enfatiza la acción comunitaria y Richmond el análisis del caso individual.'
+  respuestas_incorrectas:
+    - 'Ambas utilizan exactamente el mismo enfoque.'
+    - 'Richmond se centra en la comunidad y Addams en el caso individual.'
+    - 'Addams propone solo intervenciones institucionales.'
+
+- pregunta: '¿Cuál de los siguientes NO forma parte del objeto del Trabajo Social?'
+  probabilidad: 0.9
+  respuesta_correcta: 'El diagnóstico psicológico exclusivo.'
+  respuestas_incorrectas:
+    - 'La necesidad.'
+    - 'El recurso.'
+    - 'La contradicción.'
+
+- pregunta: 'Organizar vecinos para mejorar el alumbrado público corresponde al ámbito:'
+  probabilidad: 0.88
+  respuesta_correcta: 'Comunitario.'
+  respuestas_incorrectas:
+    - 'Familiar.'
+    - 'Grupal.'
+    - 'Institucional.'
+
+- pregunta: 'La reinserción social de personas privadas de libertad corresponde al área:'
+  probabilidad: 0.89
+  respuesta_correcta: 'Penitenciaria.'
+  respuestas_incorrectas:
+    - 'Educativa.'
+    - 'Laboral.'
+    - 'Jurídica.'
+
+- pregunta: '¿Cuál es el objetivo del diagnóstico participativo?'
+  probabilidad: 0.87
+  respuesta_correcta: 'Incorporar a la comunidad en la identificación de problemas y soluciones.'
+  respuestas_incorrectas:
+    - 'Imponer soluciones externas.'
+    - 'Recoger datos sin participación social.'
+    - 'Aplicar únicamente encuestas estadísticas.'
+
+- pregunta: '¿Qué etapa del método sigue a la planificación?'
+  probabilidad: 0.86
+  respuesta_correcta: 'La ejecución o implementación.'
+  respuestas_incorrectas:
+    - 'El diagnóstico.'
+    - 'La evaluación.'
+    - 'La investigación bibliográfica.'
+
+- pregunta: 'Superar el asistencialismo implica:'
+  probabilidad: 0.9
+  respuesta_correcta: 'Promover procesos que fortalezcan derechos y autonomía.'
+  respuestas_incorrectas:
+    - 'Eliminar toda ayuda social.'
+    - 'Mantener la caridad tradicional.'
+    - 'Delegar la responsabilidad solo al individuo.'
+
+- pregunta: '¿Cuál herramienta NO corresponde al Trabajo Social?'
+  probabilidad: 0.91
+  respuesta_correcta: 'La prescripción médica.'
+  respuestas_incorrectas:
+    - 'El diagnóstico social.'
+    - 'La gestión de casos.'
+    - 'El trabajo en red.'
+
+- pregunta: 'La Charity Organization Society se caracteriza por:'
+  probabilidad: 0.88
+  respuesta_correcta: 'El registro de casos y la organización de la ayuda social.'
+  respuestas_incorrectas:
+    - 'La acción comunitaria territorial.'
+    - 'La protesta obrera.'
+    - 'La reforma educativa.'
+
+- pregunta: '¿Qué disciplina analiza la pobreza desde las estructuras económicas?'
+  probabilidad: 0.89
+  respuesta_correcta: 'La economía.'
+  respuestas_incorrectas:
+    - 'La filosofía.'
+    - 'La psicología.'
+    - 'La antropología.'
+
+- pregunta: 'El sujeto de intervención es entendido como:'
+  probabilidad: 0.92
+  respuesta_correcta: 'Un sujeto de derecho con capacidad de agencia.'
+  respuestas_incorrectas:
+    - 'Un objeto pasivo de ayuda.'
+    - 'Un número estadístico.'
+    - 'Un problema social aislado.'
+
+- pregunta: '¿Cuál es un indicador cuantitativo en educación?'
+  probabilidad: 0.87
+  respuesta_correcta: 'El porcentaje de estudiantes que concluyen el año escolar.'
+  respuestas_incorrectas:
+    - 'La percepción de los docentes.'
+    - 'El clima escolar.'
+    - 'La satisfacción estudiantil.'
+
+- pregunta: '¿Qué función cumple el Trabajo Social en el ámbito institucional?'
+  probabilidad: 0.88
+  respuesta_correcta: 'Diseñar y evaluar programas sociales.'
+  respuestas_incorrectas:
+    - 'Realizar terapia psicológica.'
+    - 'Emitir sentencias judiciales.'
+    - 'Aplicar tratamientos médicos.'
+
+- pregunta: 'El secreto profesional implica:'
+  probabilidad: 0.91
+  respuesta_correcta: 'Proteger la confidencialidad de la información del sujeto.'
+  respuestas_incorrectas:
+    - 'Ocultar información siempre.'
+    - 'Compartir datos sin consentimiento.'
+    - 'Eliminar registros profesionales.'
+
+- pregunta: 'Ante un caso de violencia intrafamiliar, el trabajador social debe:'
+  probabilidad: 0.9
+  respuesta_correcta: 'Evaluar la situación y gestionar medidas de protección.'
+  respuestas_incorrectas:
+    - 'Ignorar el caso.'
+    - 'Actuar como juez.'
+    - 'Aplicar sanciones penales.'
+
+- pregunta: '¿Qué corriente cuestiona la adaptación del individuo al sistema?'
+  probabilidad: 0.89
+  respuesta_correcta: 'La corriente dialéctica o reconceptualización.'
+  respuestas_incorrectas:
+    - 'La etapa técnica.'
+    - 'El enfoque asistencial.'
+    - 'El modelo clínico.'
+
+- pregunta: "¿Qué autor destaca la escucha y la lectura del sujeto como 'texto'?"
+  probabilidad: 0.88
+  respuesta_correcta: 'Carballeda.'
+  respuestas_incorrectas:
+    - 'Mary Richmond.'
+    - 'Jane Addams.'
+    - 'Konopka.'
+
+- pregunta: 'Trabajar en red implica:'
+  probabilidad: 0.87
+  respuesta_correcta: 'Coordinar acciones entre instituciones y actores sociales.'
+  respuestas_incorrectas:
+    - 'Centralizar decisiones en una sola institución.'
+    - 'Evitar la participación comunitaria.'
+    - 'Fragmentar los servicios.'
+
+- pregunta: '¿Cuál es un resultado esperado del trabajo grupal?'
+  probabilidad: 0.9
+  respuesta_correcta: 'El fortalecimiento del apoyo mutuo.'
+  respuestas_incorrectas:
+    - 'El aislamiento social.'
+    - 'La dependencia del profesional.'
+    - 'La exclusión comunitaria.'
+
+- pregunta: 'La contradicción en el objeto del Trabajo Social se refiere a:'
+  probabilidad: 0.89
+  respuesta_correcta: 'El choque entre necesidades y recursos disponibles.'
+  respuestas_incorrectas:
+    - 'La falta de compromiso profesional.'
+    - 'Un error metodológico.'
+    - 'Un conflicto personal del usuario.'
+
+- pregunta: 'El enfoque de Nueva York se caracteriza por:'
+  probabilidad: 0.88
+  respuesta_correcta: 'El énfasis técnico y el análisis del caso individual.'
+  respuestas_incorrectas:
+    - 'La acción comunitaria territorial.'
+    - 'La protesta social.'
+    - 'La intervención exclusivamente institucional.'
+
+- pregunta: 'Un diagnóstico social debe considerar:'
+  probabilidad: 0.9
+  respuesta_correcta: 'Factores individuales, familiares, comunitarios e institucionales.'
+  respuestas_incorrectas:
+    - 'Solo factores individuales.'
+    - 'Únicamente datos económicos.'
+    - 'Variables psicológicas aisladas.'
+
+- pregunta: '¿Qué actividad es propia del área laboral?'
+  probabilidad: 0.87
+  respuesta_correcta: 'La orientación ocupacional y la inserción laboral.'
+  respuestas_incorrectas:
+    - 'La terapia familiar.'
+    - 'La mediación penal.'
+    - 'La planificación educativa.'
+
+- pregunta: 'La praxis en Trabajo Social implica:'
+  probabilidad: 0.9
+  respuesta_correcta: 'La articulación entre reflexión y acción transformadora.'
+  respuestas_incorrectas:
+    - 'Solo reflexión teórica.'
+    - 'Acción sin análisis.'
+    - 'Investigación sin intervención.'
+
+- pregunta: '¿Qué tipo de indicador recoge percepciones y experiencias?'
+  probabilidad: 0.88
+  respuesta_correcta: 'El indicador cualitativo.'
+  respuestas_incorrectas:
+    - 'El indicador financiero.'
+    - 'El indicador estadístico.'
+    - 'El indicador estructural.'
+
+- pregunta: 'La planificación del Trabajo Social incluye:'
+  probabilidad: 0.89
+  respuesta_correcta: 'Definición de objetivos, estrategias y recursos.'
+  respuestas_incorrectas:
+    - 'Improvisación de acciones.'
+    - 'Exclusión de actores sociales.'
+    - 'Evaluación anticipada sin diagnóstico.'
+
+- pregunta: 'El área educativa del Trabajo Social se orienta a:'
+  probabilidad: 0.87
+  respuesta_correcta: 'La promoción del derecho a la educación y la prevención del abandono escolar.'
+  respuestas_incorrectas:
+    - 'La gestión financiera de escuelas.'
+    - 'La aplicación de sanciones disciplinarias.'
+    - 'La atención médica escolar.'
+
+- pregunta: 'La gerencia social busca:'
+  probabilidad: 0.88
+  respuesta_correcta: 'Hacer más eficientes y humanas las instituciones.'
+  respuestas_incorrectas:
+    - 'Eliminar la participación social.'
+    - 'Centralizar el poder decisional.'
+    - 'Reducir la intervención profesional.'
+
+- pregunta: 'En el ámbito jurídico, el Trabajo Social realiza:'
+  probabilidad: 0.9
+  respuesta_correcta: 'Mediación y acompañamiento en la defensa de derechos.'
+  respuestas_incorrectas:
+    - 'Prescripción de penas.'
+    - 'Diagnósticos clínicos.'
+    - 'Diseño de políticas económicas.'
+
+- pregunta: 'La profesionalización del Trabajo Social implicó:'
+  probabilidad: 0.91
+  respuesta_correcta: 'Formación académica, método y ética profesional.'
+  respuestas_incorrectas:
+    - 'Abandono de la ética.'
+    - 'Reemplazo de la teoría por caridad.'
+    - 'Reducción del compromiso social.'
+
+- pregunta: 'Un diagnóstico comunitario participativo incluye:'
+  probabilidad: 0.88
+  respuesta_correcta: 'La participación activa de vecinos en el análisis de su realidad.'
+  respuestas_incorrectas:
+    - 'Decisiones externas exclusivamente.'
+    - 'Resultados sin devolución.'
+    - 'Datos sin contexto social.'
+
+- pregunta: 'Las ciencias humanas se enfocan principalmente en:'
+  probabilidad: 0.87
+  respuesta_correcta: 'El ser humano, su cultura y subjetividad.'
+  respuestas_incorrectas:
+    - 'Las estructuras macroeconómicas.'
+    - 'La gestión estatal.'
+    - 'Los sistemas productivos.'
+
+- pregunta: 'La evaluación permite:'
+  probabilidad: 0.9
+  respuesta_correcta: 'Comparar objetivos con resultados y recoger retroalimentación.'
+  respuestas_incorrectas:
+    - 'Justificar gastos.'
+    - 'Ocultar errores.'
+    - 'Eliminar la participación del sujeto.'
+
+- pregunta: 'Ante el trabajo infantil, la acción prioritaria es:'
+  probabilidad: 0.91
+  respuesta_correcta: 'La protección inmediata del niño y la articulación institucional.'
+  respuestas_incorrectas:
+    - 'La indiferencia profesional.'
+    - 'La sanción económica exclusiva.'
+    - 'La derivación sin seguimiento.'
+
+- pregunta: 'El ámbito grupal se define como:'
+  probabilidad: 0.88
+  respuesta_correcta: 'Un espacio de apoyo mutuo entre personas con intereses o problemas comunes.'
+  respuestas_incorrectas:
+    - 'Una intervención solo familiar.'
+    - 'Un nivel de política nacional.'
+    - 'Una acción recreativa sin objetivos.'
+
+- pregunta: 'Un límite del enfoque exclusivamente técnico es:'
+  probabilidad: 0.89
+  respuesta_correcta: 'La invisibilización de causas estructurales.'
+  respuestas_incorrectas:
+    - 'El exceso de participación comunitaria.'
+    - 'La transformación social.'
+    - 'El fortalecimiento de derechos.'
+
+- pregunta: 'El área jurídica del Trabajo Social se vincula con:'
+  probabilidad: 0.88
+  respuesta_correcta: 'La protección y defensa de derechos humanos.'
+  respuestas_incorrectas:
+    - 'La gestión ambiental.'
+    - 'La orientación laboral.'
+    - 'La planificación educativa.'
+
+- pregunta: 'Una ventaja del trabajo en red es:'
+  probabilidad: 0.9
+  respuesta_correcta: 'La articulación de recursos para respuestas integrales.'
+  respuestas_incorrectas:
+    - 'La fragmentación institucional.'
+    - 'La centralización del poder.'
+    - 'La exclusión de actores locales.'
+
+- pregunta: 'Un indicador de eficacia en un centro familiar puede ser:'
+  probabilidad: 0.87
+  respuesta_correcta: 'La reducción de conflictos y la satisfacción de los usuarios.'
+  respuestas_incorrectas:
+    - 'El tamaño del edificio.'
+    - 'La cantidad de informes producidos.'
+    - 'La presencia mediática.'
+
+- pregunta: 'Considerar al sujeto como sujeto de derecho implica:'
+  probabilidad: 0.92
+  respuesta_correcta: 'Reconocer su capacidad de decisión y participación.'
+  respuestas_incorrectas:
+    - 'Tratarlo como objeto de intervención.'
+    - 'Excluirlo del proceso.'
+    - 'Sustituir sus decisiones.'
+
+- pregunta: 'Una intervención comunitaria transformadora prioriza:'
+  probabilidad: 0.89
+  respuesta_correcta: 'La organización social y el protagonismo comunitario.'
+  respuestas_incorrectas:
+    - 'La imposición externa.'
+    - 'La intervención sin diagnóstico.'
+    - 'La eliminación de actores locales.'
+
+- pregunta: 'La evaluación cualitativa se centra en:'
+  probabilidad: 0.88
+  respuesta_correcta: 'Narrativas, percepciones y cambios subjetivos.'
+  respuestas_incorrectas:
+    - 'Indicadores financieros.'
+    - 'Estadísticas demográficas.'
+    - 'Datos censales.'
+
+- pregunta: 'Un buen registro de caso debe incluir:'
+  probabilidad: 0.91
+  respuesta_correcta: 'Datos relevantes, fecha, motivo de la visita y acuerdos con el sujeto.'
+  respuestas_incorrectas:
+    - 'Opiniones personales sin fundamento.'
+    - 'Información incompleta.'
+    - 'Difusión libre de datos sensibles.'
+
+- pregunta: 'El Trabajo Social contemporáneo se orienta principalmente a:'
+  probabilidad: 0.93
+  respuesta_correcta: 'La promoción de derechos, bienestar integral y justicia social.'
+  respuestas_incorrectas:
+    - 'La adaptación pasiva al sistema.'
+    - 'La caridad espontánea.'
+    - 'La gestión burocrática aislada.'
